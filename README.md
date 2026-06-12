@@ -166,8 +166,11 @@ By combining fairness analytics, bias detection, visualization, and automated al
 ## Author(s)
 
 **Yohan Vora**
+
 **Jugraj Singh**
+
 **Devank Surve**
+
 **Hriday Saraf**
 
 B.Tech Artificial Intelligence & Data Science
