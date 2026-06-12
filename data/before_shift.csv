@@ -1,0 +1,2562 @@
+applicant_id,govt_employed,income_annum,cibil_score,education,loan_status
+2323,yes,200000,704, Not Graduate,Approved
+3593,yes,1900000,631, Not Graduate,Approved
+1970,yes,5300000,329, Graduate,Rejected
+1542,yes,900000,560, Graduate,Approved
+1762,yes,9800000,304, Not Graduate,Approved
+233,yes,2700000,796, Not Graduate,Approved
+2370,yes,9500000,526, Not Graduate,Rejected
+514,yes,3400000,728, Graduate,Approved
+4118,yes,3500000,477, Graduate,Rejected
+960,yes,9600000,795, Graduate,Approved
+2226,yes,7000000,889, Not Graduate,Approved
+1683,yes,4000000,509, Not Graduate,Rejected
+3963,yes,500000,618, Graduate,Approved
+158,yes,9900000,364, Not Graduate,Rejected
+467,yes,500000,411, Not Graduate,Rejected
+560,yes,200000,885, Graduate,Rejected
+2393,yes,2300000,612, Graduate,Approved
+1239,yes,1900000,651, Graduate,Approved
+581,yes,8900000,369, Graduate,Rejected
+3438,yes,200000,526, Not Graduate,Rejected
+2186,yes,9200000,827, Graduate,Approved
+820,yes,2300000,642, Graduate,Approved
+3326,yes,800000,353, Not Graduate,Rejected
+1188,yes,8600000,459, Graduate,Rejected
+2371,yes,300000,641, Graduate,Approved
+2082,yes,8600000,678, Not Graduate,Approved
+3620,yes,900000,660, Graduate,Approved
+1805,yes,4600000,433, Not Graduate,Rejected
+713,yes,6100000,678, Graduate,Approved
+1671,yes,1600000,382, Not Graduate,Rejected
+496,yes,2400000,739, Not Graduate,Approved
+3767,yes,5600000,756, Not Graduate,Approved
+2564,yes,7100000,783, Graduate,Approved
+284,yes,6800000,516, Graduate,Rejected
+3878,yes,3100000,398, Graduate,Approved
+482,yes,5300000,900, Graduate,Approved
+1167,yes,7800000,454, Not Graduate,Rejected
+3459,yes,7500000,342, Not Graduate,Approved
+3400,yes,5100000,527, Not Graduate,Rejected
+1713,yes,3000000,712, Not Graduate,Approved
+559,yes,5700000,415, Graduate,Rejected
+596,yes,2700000,861, Graduate,Approved
+3267,yes,2400000,871, Not Graduate,Approved
+1692,yes,8900000,711, Not Graduate,Approved
+1876,yes,2300000,578, Not Graduate,Approved
+1940,yes,8500000,786, Not Graduate,Approved
+2211,yes,2800000,521, Not Graduate,Rejected
+668,yes,3100000,785, Graduate,Approved
+597,yes,6200000,664, Not Graduate,Approved
+1354,yes,2700000,630, Not Graduate,Approved
+2604,yes,5100000,776, Not Graduate,Approved
+1370,yes,3500000,535, Graduate,Rejected
+2936,yes,2300000,504, Not Graduate,Approved
+3845,yes,9000000,842, Not Graduate,Approved
+817,yes,7200000,644, Graduate,Approved
+1022,yes,7600000,358, Not Graduate,Rejected
+547,yes,6600000,887, Not Graduate,Approved
+4122,yes,3300000,418, Not Graduate,Rejected
+219,yes,6800000,744, Not Graduate,Approved
+4044,yes,5100000,510, Not Graduate,Rejected
+2148,yes,4500000,719, Not Graduate,Approved
+3821,yes,6000000,723, Graduate,Approved
+2964,yes,9000000,540, Not Graduate,Rejected
+1851,yes,7800000,766, Graduate,Approved
+2852,yes,9500000,581, Graduate,Approved
+714,yes,4400000,894, Graduate,Approved
+2744,yes,2900000,827, Not Graduate,Approved
+347,yes,8000000,449, Graduate,Rejected
+3599,yes,1500000,420, Graduate,Rejected
+4265,yes,1000000,317, Graduate,Rejected
+3216,yes,4000000,552, Graduate,Approved
+3294,yes,9400000,617, Not Graduate,Approved
+2538,yes,2900000,678, Not Graduate,Approved
+3263,yes,8200000,316, Not Graduate,Rejected
+1196,yes,7000000,768, Not Graduate,Approved
+2774,yes,2700000,554, Graduate,Approved
+1069,yes,200000,768, Not Graduate,Approved
+2671,yes,600000,877, Graduate,Approved
+993,yes,8500000,803, Graduate,Approved
+235,yes,3300000,632, Not Graduate,Approved
+589,yes,1100000,647, Not Graduate,Approved
+212,yes,1700000,420, Not Graduate,Rejected
+2061,yes,4400000,583, Graduate,Approved
+1887,yes,5500000,344, Not Graduate,Rejected
+1691,yes,1100000,301, Graduate,Rejected
+535,yes,4400000,516, Graduate,Rejected
+2266,yes,3700000,501, Not Graduate,Rejected
+429,yes,400000,771, Not Graduate,Approved
+584,yes,3600000,557, Not Graduate,Approved
+3588,yes,600000,879, Not Graduate,Approved
+2080,yes,8800000,473, Not Graduate,Rejected
+1625,yes,9500000,500, Graduate,Rejected
+469,yes,6200000,396, Graduate,Rejected
+3096,yes,4100000,727, Graduate,Approved
+1846,yes,5000000,410, Graduate,Rejected
+911,yes,4900000,754, Graduate,Approved
+884,yes,9000000,895, Graduate,Approved
+151,yes,5200000,481, Not Graduate,Rejected
+4018,yes,2200000,861, Graduate,Approved
+1967,yes,2900000,318, Graduate,Rejected
+681,yes,3200000,780, Not Graduate,Approved
+2880,yes,7000000,467, Graduate,Rejected
+3265,yes,800000,363, Not Graduate,Rejected
+607,yes,5400000,622, Graduate,Approved
+2813,yes,8100000,464, Not Graduate,Rejected
+2376,yes,2900000,820, Graduate,Approved
+3606,yes,5800000,361, Graduate,Rejected
+966,yes,8500000,762, Not Graduate,Approved
+62,yes,9600000,669, Not Graduate,Approved
+3977,yes,8500000,448, Graduate,Rejected
+3688,yes,2100000,591, Not Graduate,Approved
+3104,yes,5200000,612, Not Graduate,Approved
+3054,yes,1900000,893, Not Graduate,Approved
+4134,yes,3000000,402, Graduate,Rejected
+1594,yes,1500000,858, Not Graduate,Approved
+2683,yes,900000,772, Not Graduate,Approved
+3475,yes,5400000,550, Not Graduate,Approved
+4254,yes,7000000,896, Graduate,Approved
+4229,yes,3200000,483, Graduate,Rejected
+1406,yes,8400000,741, Graduate,Approved
+1862,yes,5000000,420, Not Graduate,Rejected
+383,yes,9300000,655, Not Graduate,Approved
+283,yes,2800000,405, Graduate,Rejected
+267,yes,2800000,666, Graduate,Approved
+1531,yes,8800000,712, Graduate,Approved
+3158,yes,8600000,704, Not Graduate,Approved
+628,yes,7700000,552, Not Graduate,Approved
+1087,yes,7700000,705, Graduate,Approved
+2035,yes,3100000,374, Graduate,Rejected
+2595,yes,4600000,810, Graduate,Approved
+377,yes,7700000,584, Graduate,Approved
+116,yes,3300000,797, Not Graduate,Approved
+403,yes,5200000,650, Graduate,Approved
+3950,yes,9100000,535, Not Graduate,Rejected
+3177,yes,3100000,408, Not Graduate,Rejected
+3728,yes,7500000,469, Not Graduate,Rejected
+3568,yes,2500000,454, Not Graduate,Rejected
+480,yes,700000,669, Not Graduate,Approved
+767,yes,6100000,672, Graduate,Approved
+3666,yes,6400000,594, Graduate,Approved
+2930,yes,1100000,515, Graduate,Rejected
+2549,yes,1800000,448, Graduate,Rejected
+508,yes,5100000,778, Not Graduate,Approved
+2998,yes,7000000,682, Not Graduate,Approved
+2018,yes,7400000,323, Graduate,Rejected
+3410,yes,6700000,820, Graduate,Approved
+3027,yes,2700000,551, Graduate,Approved
+3218,yes,6900000,845, Not Graduate,Approved
+1280,yes,5500000,724, Not Graduate,Approved
+2631,yes,6000000,743, Not Graduate,Approved
+1605,yes,1500000,414, Not Graduate,Approved
+3504,yes,1000000,882, Graduate,Approved
+1058,yes,3800000,479, Graduate,Rejected
+3513,yes,4100000,465, Graduate,Rejected
+2057,yes,7600000,555, Graduate,Approved
+2759,yes,2300000,629, Graduate,Approved
+961,yes,6500000,369, Graduate,Rejected
+1960,yes,3300000,647, Not Graduate,Approved
+1939,yes,1200000,752, Graduate,Approved
+933,yes,7900000,728, Not Graduate,Approved
+4242,yes,5600000,748, Graduate,Approved
+2455,yes,1200000,348, Graduate,Rejected
+3269,yes,7900000,571, Not Graduate,Approved
+3765,yes,8300000,624, Graduate,Approved
+1905,yes,1800000,658, Graduate,Approved
+2881,yes,5400000,355, Graduate,Rejected
+1733,yes,5500000,350, Graduate,Rejected
+1176,yes,7700000,380, Graduate,Rejected
+248,yes,9400000,536, Not Graduate,Rejected
+3840,yes,5100000,504, Not Graduate,Approved
+1216,yes,9600000,359, Graduate,Rejected
+973,yes,4400000,779, Graduate,Approved
+129,yes,700000,429, Not Graduate,Rejected
+505,yes,8600000,868, Graduate,Approved
+2874,yes,6800000,446, Graduate,Approved
+1232,yes,1200000,757, Graduate,Approved
+1221,yes,9000000,549, Graduate,Approved
+1036,yes,3800000,842, Not Graduate,Approved
+2191,yes,5600000,883, Graduate,Approved
+3936,yes,5900000,479, Graduate,Rejected
+4259,yes,9700000,346, Graduate,Rejected
+649,yes,6800000,812, Not Graduate,Approved
+1817,yes,8000000,784, Not Graduate,Approved
+583,yes,8200000,492, Graduate,Rejected
+2433,yes,4500000,568, Graduate,Approved
+1779,yes,1600000,582, Graduate,Approved
+2892,yes,3600000,548, Not Graduate,Rejected
+3462,yes,4200000,704, Graduate,Approved
+2275,yes,4300000,440, Not Graduate,Rejected
+3611,yes,8800000,729, Not Graduate,Approved
+2596,yes,8000000,302, Graduate,Rejected
+2606,yes,7800000,560, Graduate,Approved
+103,yes,4300000,618, Not Graduate,Approved
+1065,yes,5600000,875, Not Graduate,Approved
+3499,yes,9100000,685, Graduate,Approved
+3639,yes,8500000,683, Not Graduate,Approved
+2331,yes,1200000,678, Not Graduate,Approved
+2220,yes,7800000,767, Graduate,Approved
+3146,yes,8900000,757, Not Graduate,Approved
+2460,yes,3700000,405, Not Graduate,Approved
+2760,yes,7600000,657, Graduate,Approved
+3253,yes,6300000,349, Graduate,Rejected
+1302,yes,6300000,556, Graduate,Approved
+757,yes,4700000,445, Not Graduate,Rejected
+153,yes,6500000,306, Graduate,Approved
+4131,yes,6200000,855, Not Graduate,Approved
+2777,yes,7900000,322, Graduate,Rejected
+2189,yes,4200000,834, Graduate,Approved
+2715,yes,8600000,778, Not Graduate,Approved
+1308,yes,8000000,867, Graduate,Approved
+759,yes,9400000,414, Graduate,Rejected
+3399,yes,6900000,763, Graduate,Approved
+4103,yes,3300000,806, Not Graduate,Approved
+2069,yes,2600000,722, Graduate,Approved
+3306,yes,6100000,456, Not Graduate,Rejected
+2798,yes,4600000,720, Not Graduate,Approved
+1426,yes,2500000,424, Not Graduate,Rejected
+624,yes,8500000,457, Not Graduate,Approved
+3144,yes,200000,882, Graduate,Approved
+2569,yes,4400000,561, Not Graduate,Approved
+1442,yes,5900000,442, Not Graduate,Rejected
+4218,yes,400000,483, Not Graduate,Approved
+837,yes,600000,326, Graduate,Rejected
+866,yes,6400000,348, Not Graduate,Rejected
+218,yes,9600000,809, Graduate,Approved
+2378,yes,4900000,718, Not Graduate,Approved
+855,yes,1700000,488, Graduate,Rejected
+2234,yes,7500000,655, Graduate,Approved
+2895,yes,4000000,717, Graduate,Approved
+1210,yes,3200000,645, Graduate,Approved
+1799,yes,3800000,567, Not Graduate,Approved
+1063,yes,600000,509, Not Graduate,Rejected
+3445,yes,1300000,530, Graduate,Rejected
+3481,yes,3700000,747, Graduate,Approved
+3581,yes,3100000,772, Graduate,Approved
+257,yes,9800000,869, Graduate,Approved
+378,yes,9500000,380, Graduate,Rejected
+2807,yes,6500000,333, Graduate,Rejected
+1043,yes,3300000,550, Not Graduate,Approved
+3450,yes,7000000,554, Graduate,Approved
+2388,yes,4400000,795, Graduate,Approved
+2497,yes,3200000,708, Not Graduate,Approved
+1024,yes,1100000,554, Not Graduate,Approved
+4116,yes,3200000,675, Not Graduate,Approved
+147,yes,1400000,772, Graduate,Approved
+701,yes,7600000,788, Graduate,Approved
+4246,yes,6500000,507, Not Graduate,Approved
+3608,yes,4300000,618, Graduate,Approved
+3380,yes,2700000,413, Not Graduate,Rejected
+2691,yes,8300000,422, Not Graduate,Rejected
+1807,yes,6200000,888, Graduate,Approved
+3779,yes,2600000,382, Not Graduate,Rejected
+4084,yes,7700000,895, Graduate,Approved
+1230,yes,1800000,305, Graduate,Rejected
+3303,yes,1500000,611, Graduate,Approved
+832,yes,3800000,849, Graduate,Approved
+1156,yes,3300000,434, Not Graduate,Rejected
+3858,yes,2800000,875, Graduate,Approved
+845,yes,6500000,327, Graduate,Rejected
+2231,yes,5800000,528, Graduate,Rejected
+3570,yes,3200000,543, Graduate,Rejected
+431,yes,9300000,338, Not Graduate,Rejected
+4075,yes,9400000,845, Not Graduate,Approved
+815,yes,200000,624, Graduate,Approved
+4194,yes,8900000,329, Graduate,Rejected
+546,yes,9400000,645, Graduate,Approved
+2487,yes,2300000,472, Graduate,Rejected
+2279,yes,5800000,321, Not Graduate,Rejected
+1643,yes,8700000,554, Not Graduate,Approved
+1730,yes,5800000,633, Graduate,Approved
+3402,yes,8600000,802, Not Graduate,Approved
+428,yes,1100000,711, Graduate,Approved
+2850,yes,1200000,772, Graduate,Approved
+1309,yes,9900000,875, Not Graduate,Approved
+3677,yes,7900000,318, Not Graduate,Rejected
+448,yes,8600000,415, Graduate,Rejected
+2298,yes,9000000,896, Not Graduate,Approved
+475,yes,9200000,698, Not Graduate,Approved
+1508,yes,6500000,488, Graduate,Rejected
+2666,yes,9300000,438, Not Graduate,Rejected
+3981,yes,400000,828, Not Graduate,Approved
+3672,yes,4400000,865, Graduate,Approved
+2656,yes,2600000,572, Not Graduate,Approved
+2735,yes,8000000,804, Not Graduate,Approved
+1810,yes,2900000,694, Graduate,Approved
+2732,yes,2000000,636, Not Graduate,Approved
+28,yes,2400000,662, Not Graduate,Approved
+972,yes,4400000,590, Graduate,Approved
+2932,yes,4900000,691, Graduate,Approved
+2941,yes,9600000,828, Graduate,Approved
+3099,yes,5300000,546, Graduate,Rejected
+3759,yes,6100000,697, Not Graduate,Approved
+3563,yes,6700000,638, Graduate,Approved
+876,yes,1700000,480, Not Graduate,Rejected
+1506,yes,5300000,433, Not Graduate,Approved
+2951,yes,2100000,349, Not Graduate,Rejected
+3773,yes,7000000,541, Not Graduate,Rejected
+1789,yes,5800000,570, Graduate,Approved
+1760,yes,3100000,867, Not Graduate,Approved
+2885,yes,4400000,459, Not Graduate,Rejected
+3644,yes,7000000,486, Not Graduate,Approved
+2648,yes,300000,674, Graduate,Approved
+2578,yes,4900000,439, Graduate,Rejected
+2193,yes,7700000,621, Graduate,Approved
+2027,yes,9800000,740, Graduate,Approved
+3826,yes,1700000,854, Not Graduate,Approved
+3502,yes,7600000,692, Graduate,Approved
+227,yes,5900000,777, Not Graduate,Approved
+2197,yes,2300000,592, Not Graduate,Approved
+250,yes,1900000,560, Not Graduate,Approved
+1242,yes,7100000,727, Graduate,Approved
+3663,yes,5500000,546, Not Graduate,Rejected
+1107,yes,8200000,668, Graduate,Approved
+1825,yes,5500000,403, Graduate,Rejected
+3092,yes,5000000,604, Graduate,Approved
+3044,yes,7600000,607, Not Graduate,Approved
+239,yes,4700000,585, Not Graduate,Approved
+3880,yes,8100000,347, Graduate,Rejected
+1561,yes,2500000,345, Not Graduate,Rejected
+3660,yes,2500000,695, Not Graduate,Approved
+2490,yes,800000,726, Not Graduate,Approved
+3712,yes,5600000,350, Graduate,Rejected
+4055,yes,3800000,571, Graduate,Approved
+2006,yes,6600000,856, Graduate,Approved
+2734,yes,3200000,848, Graduate,Approved
+1490,yes,3300000,812, Not Graduate,Approved
+2049,yes,8100000,751, Graduate,Approved
+1591,yes,2400000,514, Graduate,Rejected
+1588,yes,5300000,505, Graduate,Rejected
+2820,yes,7600000,437, Not Graduate,Approved
+3785,yes,9800000,885, Graduate,Approved
+3336,yes,4600000,493, Graduate,Rejected
+3028,yes,5900000,825, Not Graduate,Approved
+1595,yes,8800000,607, Graduate,Approved
+1750,yes,9200000,702, Not Graduate,Approved
+3141,yes,3800000,670, Graduate,Approved
+2778,yes,8800000,852, Graduate,Approved
+1880,yes,2700000,840, Not Graduate,Approved
+1431,yes,5300000,329, Graduate,Rejected
+1061,yes,3500000,897, Not Graduate,Approved
+2821,yes,8400000,335, Not Graduate,Rejected
+2519,yes,5700000,442, Not Graduate,Rejected
+3046,yes,7100000,890, Not Graduate,Approved
+1863,yes,200000,552, Not Graduate,Approved
+2079,yes,1000000,798, Graduate,Approved
+2115,yes,5000000,839, Not Graduate,Approved
+3647,yes,9000000,712, Graduate,Approved
+4076,yes,2600000,392, Not Graduate,Approved
+3109,yes,7800000,597, Not Graduate,Approved
+2367,yes,3900000,453, Graduate,Rejected
+690,yes,3900000,464, Not Graduate,Rejected
+1633,yes,4700000,406, Not Graduate,Rejected
+2553,yes,3600000,543, Not Graduate,Rejected
+143,yes,5500000,829, Graduate,Approved
+3182,yes,8000000,763, Not Graduate,Approved
+970,yes,6000000,462, Not Graduate,Rejected
+3675,yes,5600000,395, Graduate,Rejected
+2814,yes,6600000,490, Not Graduate,Rejected
+3274,yes,4000000,531, Graduate,Rejected
+2580,yes,3800000,490, Not Graduate,Rejected
+3697,yes,1600000,733, Not Graduate,Approved
+2184,yes,7300000,434, Graduate,Rejected
+1238,yes,9500000,456, Not Graduate,Approved
+3444,yes,9100000,414, Not Graduate,Rejected
+1404,yes,9100000,308, Graduate,Rejected
+1824,yes,6300000,464, Graduate,Rejected
+3603,yes,1900000,704, Not Graduate,Approved
+1727,yes,1600000,512, Not Graduate,Rejected
+3848,yes,700000,813, Graduate,Approved
+3198,yes,9400000,762, Not Graduate,Approved
+2283,yes,7500000,440, Graduate,Rejected
+48,yes,4900000,677, Graduate,Approved
+3515,yes,7500000,680, Graduate,Approved
+1068,yes,4200000,433, Graduate,Approved
+406,yes,1800000,809, Not Graduate,Approved
+112,yes,7400000,302, Graduate,Rejected
+363,yes,9000000,468, Not Graduate,Rejected
+1686,yes,2500000,623, Not Graduate,Approved
+865,yes,7200000,733, Not Graduate,Approved
+1783,yes,7300000,776, Not Graduate,Approved
+2158,yes,4200000,863, Not Graduate,Approved
+2527,yes,4700000,440, Graduate,Rejected
+1883,yes,8800000,531, Not Graduate,Rejected
+943,yes,1400000,447, Not Graduate,Rejected
+159,yes,700000,704, Graduate,Approved
+3741,yes,2500000,315, Not Graduate,Rejected
+3689,yes,4700000,321, Graduate,Rejected
+840,yes,2000000,638, Not Graduate,Approved
+1644,yes,1900000,892, Not Graduate,Approved
+925,yes,8600000,361, Not Graduate,Rejected
+4087,yes,1900000,442, Not Graduate,Rejected
+1623,yes,9000000,657, Graduate,Approved
+2276,yes,8500000,749, Not Graduate,Approved
+3117,yes,3400000,559, Graduate,Approved
+2985,yes,6400000,384, Graduate,Rejected
+4035,yes,5300000,826, Graduate,Approved
+2502,yes,7200000,571, Graduate,Approved
+2013,yes,3700000,330, Graduate,Rejected
+510,yes,9900000,808, Graduate,Approved
+2910,yes,5000000,555, Graduate,Approved
+3928,yes,700000,641, Not Graduate,Approved
+4227,yes,700000,869, Graduate,Approved
+959,yes,2200000,335, Not Graduate,Rejected
+1136,yes,800000,403, Graduate,Rejected
+2457,yes,7900000,666, Not Graduate,Approved
+40,yes,1500000,352, Not Graduate,Rejected
+2516,yes,5700000,581, Not Graduate,Approved
+2243,yes,6600000,594, Graduate,Approved
+755,yes,7600000,384, Not Graduate,Rejected
+2474,yes,900000,900, Not Graduate,Approved
+1555,yes,4500000,570, Not Graduate,Approved
+2050,yes,9400000,885, Not Graduate,Approved
+3229,yes,2700000,368, Graduate,Rejected
+3242,yes,1600000,371, Not Graduate,Rejected
+2584,yes,5900000,657, Graduate,Approved
+2788,yes,5900000,630, Not Graduate,Approved
+1377,yes,1400000,804, Graduate,Approved
+1791,yes,2200000,497, Not Graduate,Rejected
+3988,yes,4700000,317, Graduate,Rejected
+3967,yes,1800000,747, Graduate,Approved
+846,yes,600000,799, Graduate,Approved
+738,yes,900000,458, Graduate,Rejected
+529,yes,7200000,559, Graduate,Approved
+2949,yes,5600000,707, Graduate,Approved
+3852,yes,2000000,724, Not Graduate,Approved
+2212,yes,4900000,505, Not Graduate,Rejected
+3754,yes,8200000,764, Not Graduate,Approved
+892,yes,4800000,368, Graduate,Rejected
+1095,yes,5300000,516, Not Graduate,Rejected
+54,yes,8400000,657, Not Graduate,Approved
+2829,yes,9200000,889, Graduate,Approved
+1264,yes,6300000,542, Not Graduate,Rejected
+173,yes,3600000,748, Not Graduate,Approved
+711,yes,6900000,330, Graduate,Rejected
+3930,yes,3900000,811, Not Graduate,Approved
+65,yes,3900000,784, Graduate,Approved
+2102,yes,2900000,394, Graduate,Rejected
+3674,yes,8700000,318, Graduate,Rejected
+4217,yes,2100000,802, Graduate,Approved
+3870,yes,900000,529, Not Graduate,Rejected
+2001,yes,7000000,315, Not Graduate,Rejected
+4072,yes,7000000,702, Graduate,Approved
+1088,yes,7000000,709, Not Graduate,Approved
+335,yes,3200000,427, Graduate,Rejected
+417,yes,6100000,478, Graduate,Rejected
+2876,yes,300000,613, Not Graduate,Approved
+1829,yes,7200000,626, Not Graduate,Approved
+2858,yes,5600000,899, Graduate,Approved
+3254,yes,300000,797, Graduate,Approved
+592,yes,1500000,350, Not Graduate,Rejected
+1971,yes,7500000,661, Not Graduate,Approved
+1141,yes,6000000,649, Not Graduate,Approved
+4237,yes,1900000,436, Graduate,Rejected
+392,yes,2400000,877, Graduate,Approved
+3147,yes,4200000,386, Graduate,Rejected
+1527,yes,400000,889, Graduate,Approved
+2016,yes,3300000,310, Not Graduate,Rejected
+1503,yes,4800000,310, Graduate,Rejected
+3130,yes,1000000,664, Graduate,Approved
+1154,yes,3400000,730, Not Graduate,Approved
+3076,yes,1400000,304, Graduate,Rejected
+445,yes,3600000,536, Not Graduate,Rejected
+1229,yes,8900000,781, Graduate,Approved
+4204,yes,6400000,437, Graduate,Rejected
+684,yes,6400000,467, Not Graduate,Rejected
+3686,yes,7900000,605, Graduate,Approved
+2149,yes,9500000,430, Not Graduate,Rejected
+3732,yes,8000000,658, Not Graduate,Approved
+2573,yes,7000000,708, Graduate,Approved
+3812,yes,3200000,741, Not Graduate,Approved
+2633,yes,9000000,734, Graduate,Approved
+134,yes,6800000,479, Not Graduate,Rejected
+821,yes,3300000,423, Not Graduate,Approved
+1583,yes,5300000,472, Not Graduate,Rejected
+997,yes,500000,479, Graduate,Rejected
+1667,yes,1600000,896, Not Graduate,Approved
+164,yes,2000000,681, Not Graduate,Approved
+2628,yes,900000,355, Graduate,Approved
+1276,yes,5500000,880, Not Graduate,Approved
+4226,yes,3800000,606, Graduate,Approved
+2771,yes,7300000,557, Graduate,Approved
+333,yes,4600000,555, Not Graduate,Approved
+2737,yes,5800000,696, Not Graduate,Approved
+1207,yes,5100000,559, Not Graduate,Approved
+899,yes,2500000,494, Graduate,Rejected
+2791,yes,1000000,382, Not Graduate,Rejected
+689,yes,8800000,766, Graduate,Approved
+2528,yes,1700000,820, Not Graduate,Approved
+1882,yes,2600000,481, Graduate,Rejected
+4187,yes,4000000,667, Not Graduate,Approved
+2929,yes,4100000,836, Graduate,Approved
+3658,yes,5600000,528, Graduate,Rejected
+3490,yes,9000000,677, Graduate,Approved
+105,yes,6200000,331, Not Graduate,Rejected
+3201,yes,8400000,796, Not Graduate,Approved
+1626,yes,9900000,465, Not Graduate,Approved
+2456,yes,8400000,476, Graduate,Rejected
+568,yes,3000000,441, Graduate,Rejected
+3270,yes,9500000,446, Graduate,Rejected
+2114,yes,8300000,729, Not Graduate,Approved
+170,yes,4800000,371, Not Graduate,Approved
+420,yes,1700000,693, Not Graduate,Approved
+3170,yes,8700000,815, Not Graduate,Approved
+3917,yes,8900000,716, Graduate,Approved
+2274,yes,6900000,715, Graduate,Approved
+824,yes,3800000,645, Graduate,Approved
+3413,yes,4700000,835, Not Graduate,Approved
+2187,yes,8100000,657, Not Graduate,Approved
+871,yes,4800000,356, Not Graduate,Approved
+3203,yes,4800000,717, Not Graduate,Approved
+3535,yes,1300000,582, Not Graduate,Approved
+782,yes,9900000,865, Not Graduate,Approved
+1466,yes,3800000,866, Not Graduate,Approved
+63,yes,8800000,365, Not Graduate,Rejected
+2567,yes,2200000,461, Not Graduate,Approved
+1726,yes,3700000,621, Not Graduate,Approved
+2200,yes,7200000,535, Graduate,Rejected
+3505,yes,9900000,860, Graduate,Approved
+3266,yes,6100000,808, Not Graduate,Approved
+1108,yes,4800000,781, Graduate,Approved
+673,yes,500000,868, Not Graduate,Approved
+3193,yes,5300000,572, Graduate,Approved
+688,yes,8700000,708, Not Graduate,Approved
+201,yes,9800000,355, Not Graduate,Rejected
+3856,yes,8500000,714, Graduate,Approved
+3174,yes,4600000,355, Graduate,Rejected
+2218,yes,6700000,673, Graduate,Approved
+1147,yes,8000000,553, Graduate,Approved
+516,yes,8900000,367, Graduate,Rejected
+2417,yes,1200000,330, Not Graduate,Rejected
+3418,yes,6800000,679, Not Graduate,Approved
+1072,yes,3600000,529, Graduate,Rejected
+3855,yes,3100000,614, Not Graduate,Approved
+1743,yes,3300000,682, Graduate,Approved
+3287,yes,5300000,432, Graduate,Rejected
+3480,yes,3200000,376, Graduate,Rejected
+2708,yes,7800000,568, Not Graduate,Approved
+585,yes,9500000,519, Graduate,Rejected
+1103,yes,1600000,487, Graduate,Rejected
+2935,yes,6900000,348, Graduate,Rejected
+606,yes,7100000,599, Not Graduate,Approved
+3059,yes,7800000,523, Graduate,Rejected
+918,yes,1500000,400, Not Graduate,Rejected
+367,yes,6000000,851, Not Graduate,Approved
+1557,yes,5600000,873, Not Graduate,Approved
+2444,yes,6700000,498, Not Graduate,Rejected
+3595,yes,2000000,569, Graduate,Approved
+256,yes,900000,489, Graduate,Rejected
+1175,yes,9800000,395, Graduate,Rejected
+786,yes,600000,572, Not Graduate,Approved
+1782,yes,4100000,854, Graduate,Approved
+1897,yes,4200000,758, Not Graduate,Approved
+87,yes,1100000,387, Not Graduate,Rejected
+931,yes,5500000,515, Not Graduate,Rejected
+1194,yes,2100000,426, Not Graduate,Rejected
+1278,yes,9400000,323, Not Graduate,Rejected
+647,yes,5400000,734, Graduate,Approved
+396,yes,800000,584, Graduate,Rejected
+4038,yes,600000,761, Graduate,Approved
+625,yes,700000,863, Graduate,Approved
+524,yes,7100000,328, Not Graduate,Rejected
+3208,yes,3200000,864, Graduate,Approved
+2252,yes,5300000,852, Not Graduate,Approved
+1392,yes,1500000,789, Not Graduate,Approved
+3050,yes,7000000,495, Graduate,Rejected
+3163,yes,9400000,443, Graduate,Rejected
+2083,yes,2400000,745, Graduate,Approved
+1408,yes,6100000,733, Not Graduate,Approved
+3983,yes,2300000,861, Not Graduate,Approved
+2379,yes,5100000,313, Not Graduate,Rejected
+4117,yes,3900000,886, Graduate,Approved
+3062,yes,3300000,896, Not Graduate,Approved
+3435,yes,5000000,509, Graduate,Rejected
+3536,yes,4600000,487, Not Graduate,Rejected
+1628,yes,700000,626, Graduate,Approved
+1379,yes,7900000,663, Graduate,Approved
+3946,yes,7900000,560, Not Graduate,Approved
+3142,yes,1300000,407, Graduate,Rejected
+4262,yes,3000000,881, Graduate,Approved
+3105,yes,6400000,414, Not Graduate,Rejected
+3178,yes,4900000,401, Graduate,Rejected
+2775,yes,8300000,596, Graduate,Approved
+2478,yes,7300000,831, Graduate,Approved
+3839,yes,4500000,311, Graduate,Rejected
+708,yes,8800000,379, Not Graduate,Rejected
+3859,yes,2800000,359, Graduate,Rejected
+3081,yes,6000000,368, Not Graduate,Rejected
+1512,yes,3400000,733, Graduate,Approved
+1987,yes,300000,876, Not Graduate,Approved
+1182,yes,7300000,799, Not Graduate,Approved
+3912,yes,1700000,503, Not Graduate,Rejected
+3887,yes,500000,877, Graduate,Approved
+2251,yes,7000000,523, Graduate,Rejected
+2861,yes,4400000,360, Not Graduate,Rejected
+3047,yes,5000000,808, Not Graduate,Approved
+2872,yes,7300000,666, Not Graduate,Approved
+3116,yes,5600000,491, Not Graduate,Rejected
+3037,yes,3900000,477, Graduate,Rejected
+614,yes,3500000,589, Graduate,Approved
+1566,yes,3500000,420, Not Graduate,Approved
+2258,yes,7900000,446, Graduate,Rejected
+1464,yes,400000,480, Not Graduate,Approved
+3827,yes,3400000,523, Graduate,Rejected
+2284,yes,2000000,873, Not Graduate,Approved
+671,yes,2000000,320, Graduate,Rejected
+795,yes,2900000,614, Graduate,Approved
+1183,yes,6400000,727, Graduate,Approved
+3219,yes,7000000,677, Not Graduate,Approved
+564,yes,9300000,600, Graduate,Approved
+1599,yes,3000000,462, Not Graduate,Rejected
+2125,yes,7100000,474, Graduate,Rejected
+2241,yes,7400000,778, Not Graduate,Approved
+292,yes,5800000,431, Graduate,Rejected
+1854,yes,1000000,763, Not Graduate,Approved
+6,yes,4800000,319, Graduate,Rejected
+1163,yes,1900000,620, Graduate,Approved
+2621,yes,5000000,753, Not Graduate,Approved
+662,yes,1600000,641, Not Graduate,Approved
+1622,yes,7200000,362, Not Graduate,Rejected
+523,yes,8700000,523, Not Graduate,Rejected
+743,yes,2300000,339, Graduate,Rejected
+1771,yes,3500000,337, Not Graduate,Rejected
+880,yes,3900000,349, Not Graduate,Rejected
+531,yes,9900000,817, Graduate,Approved
+490,yes,7500000,492, Graduate,Rejected
+3907,yes,6200000,489, Graduate,Approved
+1348,yes,7800000,528, Graduate,Rejected
+1532,yes,2000000,615, Graduate,Approved
+1307,yes,5200000,692, Graduate,Approved
+1223,yes,500000,461, Not Graduate,Rejected
+828,yes,800000,780, Not Graduate,Approved
+533,yes,6900000,382, Graduate,Rejected
+3319,yes,9000000,451, Graduate,Rejected
+503,yes,4300000,601, Graduate,Approved
+823,yes,8300000,415, Graduate,Rejected
+2871,yes,4000000,847, Graduate,Approved
+4135,yes,5700000,819, Graduate,Approved
+601,yes,4200000,396, Not Graduate,Rejected
+1477,yes,5400000,741, Graduate,Approved
+2891,yes,8600000,497, Not Graduate,Approved
+843,yes,6700000,768, Graduate,Approved
+4138,yes,1300000,808, Graduate,Approved
+1376,yes,1400000,881, Graduate,Approved
+3471,yes,8300000,696, Not Graduate,Approved
+3039,yes,6400000,300, Not Graduate,Rejected
+2836,yes,1400000,694, Graduate,Approved
+2362,yes,8300000,504, Not Graduate,Rejected
+1702,yes,4300000,797, Graduate,Approved
+1057,yes,6500000,301, Not Graduate,Rejected
+1448,yes,9000000,412, Graduate,Rejected
+2438,yes,1100000,814, Graduate,Approved
+375,yes,3600000,814, Not Graduate,Approved
+351,yes,6700000,445, Not Graduate,Rejected
+3403,yes,9200000,538, Not Graduate,Rejected
+1690,yes,700000,705, Graduate,Approved
+381,yes,8300000,814, Graduate,Approved
+1241,yes,2200000,848, Graduate,Approved
+3682,yes,9800000,364, Graduate,Rejected
+326,yes,2700000,850, Not Graduate,Approved
+2397,yes,2600000,730, Graduate,Approved
+532,yes,300000,655, Not Graduate,Approved
+1233,yes,2700000,723, Graduate,Approved
+4228,yes,400000,496, Graduate,Approved
+4124,yes,6200000,508, Not Graduate,Rejected
+4085,yes,9300000,351, Not Graduate,Rejected
+728,yes,2200000,877, Not Graduate,Approved
+452,yes,500000,618, Graduate,Approved
+1201,yes,300000,603, Not Graduate,Approved
+1853,yes,3700000,447, Not Graduate,Rejected
+3908,yes,1000000,341, Graduate,Rejected
+4172,yes,8400000,643, Graduate,Approved
+1042,yes,4000000,799, Not Graduate,Approved
+1581,yes,7600000,570, Not Graduate,Approved
+651,yes,9800000,704, Graduate,Approved
+1788,yes,5700000,491, Not Graduate,Rejected
+3736,yes,5400000,705, Graduate,Approved
+2405,yes,4300000,552, Graduate,Approved
+2325,yes,3200000,393, Not Graduate,Approved
+30,yes,9000000,850, Not Graduate,Approved
+1745,yes,9300000,808, Not Graduate,Approved
+2126,yes,4900000,370, Graduate,Rejected
+3447,yes,1800000,670, Not Graduate,Approved
+3753,yes,6400000,628, Graduate,Approved
+1153,yes,9400000,512, Not Graduate,Rejected
+1312,yes,7000000,354, Graduate,Approved
+1568,yes,5600000,367, Not Graduate,Rejected
+3262,yes,2800000,647, Not Graduate,Approved
+934,yes,6200000,679, Not Graduate,Approved
+1985,yes,6100000,758, Graduate,Approved
+407,yes,9200000,318, Graduate,Rejected
+2711,yes,7400000,548, Graduate,Rejected
+2415,yes,3800000,340, Not Graduate,Rejected
+2568,yes,5500000,666, Not Graduate,Approved
+2015,yes,8800000,844, Graduate,Approved
+2905,yes,5200000,830, Not Graduate,Approved
+2135,yes,8500000,538, Not Graduate,Rejected
+1198,yes,7500000,440, Graduate,Approved
+1864,yes,6000000,606, Not Graduate,Approved
+3138,yes,6700000,701, Not Graduate,Approved
+3166,yes,7500000,488, Graduate,Rejected
+2984,yes,2600000,615, Graduate,Approved
+1933,yes,3800000,831, Graduate,Approved
+1867,yes,200000,412, Not Graduate,Rejected
+102,yes,300000,702, Not Graduate,Approved
+3699,yes,500000,615, Not Graduate,Approved
+534,yes,1700000,765, Graduate,Approved
+3575,yes,8700000,829, Not Graduate,Approved
+222,yes,7900000,695, Graduate,Approved
+2624,yes,300000,315, Not Graduate,Approved
+2966,yes,8000000,570, Not Graduate,Approved
+2259,yes,6700000,406, Graduate,Rejected
+230,yes,1100000,503, Not Graduate,Rejected
+3578,yes,9700000,788, Not Graduate,Approved
+999,yes,8900000,568, Graduate,Approved
+4249,yes,5300000,352, Graduate,Rejected
+3259,yes,2000000,404, Not Graduate,Approved
+1945,yes,4700000,887, Graduate,Approved
+3299,yes,6800000,338, Not Graduate,Rejected
+2501,yes,3600000,589, Not Graduate,Approved
+2802,yes,4400000,875, Graduate,Approved
+3268,yes,6000000,607, Graduate,Approved
+3743,yes,5700000,429, Graduate,Rejected
+1593,yes,7400000,627, Not Graduate,Approved
+2113,yes,9200000,618, Graduate,Approved
+1444,yes,9100000,508, Not Graduate,Approved
+160,yes,4000000,318, Graduate,Rejected
+1935,yes,5000000,699, Graduate,Approved
+2727,yes,4700000,416, Graduate,Rejected
+2639,yes,2900000,312, Graduate,Rejected
+2066,yes,9100000,543, Not Graduate,Rejected
+962,yes,2400000,888, Graduate,Approved
+3742,yes,6900000,887, Not Graduate,Approved
+1020,yes,3000000,555, Not Graduate,Approved
+2209,yes,300000,324, Graduate,Rejected
+1986,yes,7300000,373, Graduate,Rejected
+4257,yes,7400000,348, Graduate,Rejected
+3533,yes,8200000,831, Graduate,Approved
+4219,yes,7700000,684, Graduate,Approved
+2505,yes,9200000,564, Graduate,Approved
+602,yes,5300000,828, Graduate,Approved
+2108,yes,6400000,320, Not Graduate,Rejected
+812,yes,9600000,763, Not Graduate,Approved
+3019,yes,5700000,775, Not Graduate,Approved
+3501,yes,8300000,704, Not Graduate,Approved
+3164,yes,9900000,550, Not Graduate,Approved
+3048,yes,2000000,596, Graduate,Approved
+600,yes,4900000,758, Not Graduate,Approved
+461,yes,5400000,350, Graduate,Rejected
+1507,yes,400000,801, Not Graduate,Approved
+3788,yes,8300000,650, Graduate,Approved
+3653,yes,8400000,889, Not Graduate,Approved
+3154,yes,2500000,852, Graduate,Approved
+3430,yes,7800000,493, Not Graduate,Rejected
+3789,yes,3900000,665, Not Graduate,Approved
+3112,yes,7300000,813, Graduate,Approved
+303,yes,2000000,633, Graduate,Approved
+2669,yes,3600000,700, Graduate,Approved
+2232,yes,9400000,817, Not Graduate,Approved
+563,yes,7100000,389, Graduate,Rejected
+1403,yes,3300000,586, Graduate,Approved
+1424,yes,4500000,471, Graduate,Rejected
+2090,yes,800000,618, Not Graduate,Approved
+2118,yes,4100000,581, Not Graduate,Approved
+1161,yes,7000000,336, Not Graduate,Rejected
+1116,yes,8600000,607, Graduate,Approved
+2524,yes,7500000,734, Not Graduate,Approved
+1416,yes,2300000,690, Graduate,Approved
+2859,yes,4400000,567, Not Graduate,Approved
+2615,yes,200000,746, Not Graduate,Approved
+2658,yes,1200000,344, Not Graduate,Rejected
+3440,yes,9700000,328, Not Graduate,Rejected
+4041,yes,7800000,620, Graduate,Approved
+2627,yes,2100000,493, Graduate,Rejected
+3991,yes,1600000,544, Not Graduate,Rejected
+344,yes,3700000,424, Graduate,Rejected
+1482,yes,7500000,554, Graduate,Approved
+2955,yes,1800000,764, Not Graduate,Approved
+556,yes,6200000,819, Not Graduate,Approved
+3587,yes,2200000,710, Graduate,Approved
+2924,yes,8500000,786, Graduate,Approved
+1259,yes,4400000,385, Not Graduate,Rejected
+1209,yes,4300000,560, Not Graduate,Approved
+2240,yes,5300000,361, Not Graduate,Rejected
+744,yes,5800000,376, Graduate,Rejected
+3654,yes,4300000,564, Graduate,Approved
+4071,yes,5100000,839, Not Graduate,Approved
+4021,yes,1300000,763, Not Graduate,Approved
+2384,yes,2800000,728, Not Graduate,Approved
+2751,yes,8000000,830, Not Graduate,Approved
+2773,yes,6600000,510, Graduate,Rejected
+89,yes,2000000,837, Graduate,Approved
+1639,yes,3900000,587, Graduate,Approved
+2709,yes,8200000,495, Graduate,Rejected
+3211,yes,7600000,534, Not Graduate,Rejected
+1640,yes,3200000,316, Graduate,Rejected
+1228,yes,7500000,512, Graduate,Rejected
+2389,yes,8400000,703, Not Graduate,Approved
+2058,yes,6800000,702, Graduate,Approved
+3191,yes,2300000,300, Graduate,Rejected
+3148,yes,4100000,756, Not Graduate,Approved
+2320,yes,1900000,887, Graduate,Approved
+991,yes,4700000,661, Graduate,Approved
+3159,yes,3800000,662, Not Graduate,Approved
+539,yes,8600000,843, Not Graduate,Approved
+1536,yes,9000000,655, Not Graduate,Approved
+4109,yes,9200000,380, Not Graduate,Rejected
+698,yes,6000000,394, Graduate,Approved
+2707,yes,1100000,730, Not Graduate,Approved
+474,yes,8200000,402, Graduate,Rejected
+1102,yes,3900000,808, Not Graduate,Approved
+1045,yes,2400000,895, Graduate,Approved
+3060,yes,2000000,461, Graduate,Rejected
+425,yes,6100000,573, Graduate,Approved
+3110,yes,4000000,791, Not Graduate,Approved
+1465,yes,4400000,840, Graduate,Approved
+1872,yes,4900000,353, Graduate,Rejected
+3496,yes,8700000,454, Not Graduate,Rejected
+3126,yes,3300000,356, Graduate,Rejected
+133,yes,1800000,465, Not Graduate,Rejected
+1269,yes,2200000,506, Graduate,Rejected
+4114,yes,3800000,859, Graduate,Approved
+2409,yes,4900000,823, Not Graduate,Approved
+1199,yes,8300000,366, Graduate,Rejected
+3525,yes,3200000,450, Graduate,Approved
+704,yes,6700000,466, Not Graduate,Rejected
+1018,yes,2500000,502, Not Graduate,Rejected
+1734,yes,6800000,879, Not Graduate,Approved
+4040,yes,2800000,442, Not Graduate,Rejected
+3586,yes,3900000,539, Graduate,Rejected
+1485,yes,5400000,366, Not Graduate,Rejected
+2729,yes,5800000,528, Graduate,Rejected
+4089,yes,2100000,432, Graduate,Rejected
+3922,yes,9000000,456, Graduate,Rejected
+2834,yes,7500000,632, Graduate,Approved
+2089,yes,1400000,841, Not Graduate,Approved
+244,yes,8200000,831, Not Graduate,Approved
+2789,yes,2600000,368, Not Graduate,Rejected
+1429,yes,1300000,480, Not Graduate,Rejected
+3805,yes,7400000,482, Graduate,Rejected
+1509,yes,2300000,756, Not Graduate,Approved
+1050,yes,1000000,553, Graduate,Approved
+2678,yes,3900000,785, Graduate,Approved
+2096,yes,7900000,654, Not Graduate,Approved
+1033,yes,700000,478, Graduate,Rejected
+178,yes,2400000,309, Not Graduate,Rejected
+3511,yes,8700000,372, Graduate,Rejected
+2741,yes,9400000,383, Graduate,Rejected
+4125,yes,7000000,689, Not Graduate,Approved
+754,yes,9200000,688, Not Graduate,Approved
+2989,yes,9300000,689, Graduate,Approved
+3768,yes,4100000,351, Graduate,Rejected
+186,yes,3800000,766, Graduate,Approved
+3740,yes,7200000,446, Graduate,Approved
+1361,yes,8700000,370, Not Graduate,Approved
+1570,yes,5200000,602, Not Graduate,Approved
+640,yes,2000000,799, Not Graduate,Approved
+12,yes,6700000,538, Not Graduate,Rejected
+2349,yes,9500000,433, Graduate,Rejected
+3622,yes,4200000,900, Not Graduate,Approved
+4244,yes,1600000,867, Not Graduate,Approved
+2012,yes,6900000,402, Graduate,Rejected
+336,yes,5500000,593, Not Graduate,Approved
+2902,yes,4000000,819, Not Graduate,Approved
+912,yes,1300000,835, Graduate,Rejected
+985,yes,300000,355, Not Graduate,Approved
+2903,yes,3600000,494, Not Graduate,Rejected
+3328,yes,7700000,473, Not Graduate,Rejected
+557,yes,9700000,387, Not Graduate,Rejected
+3868,yes,2900000,683, Not Graduate,Approved
+189,yes,7300000,622, Not Graduate,Approved
+3063,yes,9500000,732, Not Graduate,Approved
+1990,yes,4900000,600, Not Graduate,Approved
+3070,yes,8700000,394, Graduate,Rejected
+1809,yes,7800000,763, Not Graduate,Approved
+2990,yes,6500000,636, Not Graduate,Approved
+3795,yes,6900000,715, Not Graduate,Approved
+2857,yes,8300000,674, Not Graduate,Rejected
+2868,yes,6400000,553, Graduate,Approved
+2328,yes,6100000,860, Graduate,Approved
+2488,yes,6600000,802, Not Graduate,Approved
+2544,yes,1900000,811, Not Graduate,Approved
+3678,yes,5600000,649, Not Graduate,Approved
+634,yes,8100000,817, Not Graduate,Approved
+3371,yes,3400000,760, Graduate,Approved
+887,yes,4400000,761, Not Graduate,Approved
+1678,yes,6400000,313, Graduate,Rejected
+2670,yes,9500000,348, Graduate,Rejected
+2785,yes,5500000,603, Graduate,Approved
+1673,yes,2000000,366, Graduate,Approved
+2463,yes,8200000,403, Not Graduate,Rejected
+679,yes,4400000,889, Not Graduate,Approved
+2178,yes,800000,852, Not Graduate,Approved
+369,yes,1000000,620, Not Graduate,Approved
+3503,yes,3500000,398, Not Graduate,Rejected
+1889,yes,4200000,362, Graduate,Rejected
+1808,yes,400000,644, Not Graduate,Approved
+188,yes,9000000,638, Graduate,Approved
+3155,yes,3800000,301, Not Graduate,Rejected
+4179,yes,3600000,732, Not Graduate,Approved
+3892,yes,2500000,768, Not Graduate,Approved
+923,yes,9200000,669, Graduate,Approved
+1576,yes,7300000,720, Not Graduate,Approved
+2641,yes,6000000,462, Not Graduate,Rejected
+1292,yes,6500000,405, Not Graduate,Rejected
+4078,yes,1800000,749, Graduate,Approved
+124,yes,9000000,865, Not Graduate,Approved
+3376,yes,8000000,392, Graduate,Rejected
+3272,yes,5800000,738, Not Graduate,Approved
+1294,yes,3300000,742, Graduate,Approved
+2028,yes,3800000,309, Not Graduate,Rejected
+1375,yes,5300000,700, Not Graduate,Approved
+450,yes,2900000,353, Graduate,Rejected
+237,yes,900000,770, Graduate,Rejected
+3506,yes,5700000,330, Graduate,Rejected
+2749,yes,600000,343, Not Graduate,Rejected
+3298,yes,6000000,802, Not Graduate,Approved
+364,yes,6800000,818, Not Graduate,Approved
+3384,yes,2400000,464, Graduate,Rejected
+1195,yes,9000000,508, Not Graduate,Rejected
+1958,yes,5900000,499, Graduate,Rejected
+3495,yes,8800000,512, Not Graduate,Rejected
+36,yes,1700000,691, Graduate,Approved
+841,yes,3500000,478, Graduate,Rejected
+3005,yes,5300000,861, Graduate,Approved
+555,yes,9500000,319, Not Graduate,Rejected
+3546,yes,2000000,393, Not Graduate,Rejected
+851,yes,1800000,648, Graduate,Approved
+3397,yes,4400000,446, Not Graduate,Rejected
+3577,yes,5700000,645, Not Graduate,Approved
+1349,yes,9400000,350, Graduate,Rejected
+64,yes,3300000,586, Not Graduate,Approved
+2246,yes,2500000,394, Graduate,Rejected
+1468,yes,9000000,748, Graduate,Approved
+3103,yes,8500000,557, Graduate,Approved
+2586,yes,1100000,356, Not Graduate,Rejected
+437,yes,1600000,707, Graduate,Approved
+2175,yes,6400000,406, Graduate,Rejected
+3467,yes,800000,798, Graduate,Approved
+3719,yes,9500000,439, Graduate,Rejected
+631,yes,9000000,668, Not Graduate,Approved
+1129,yes,5800000,721, Graduate,Approved
+2539,yes,3900000,893, Not Graduate,Approved
+1414,yes,1500000,613, Not Graduate,Approved
+2904,yes,8100000,808, Graduate,Approved
+2679,yes,4200000,332, Graduate,Approved
+667,yes,1100000,426, Graduate,Rejected
+1263,yes,2200000,659, Graduate,Approved
+301,yes,9900000,573, Not Graduate,Approved
+2692,yes,5300000,501, Not Graduate,Rejected
+700,yes,6500000,848, Not Graduate,Approved
+182,yes,900000,566, Graduate,Approved
+3124,yes,9700000,600, Not Graduate,Approved
+109,yes,9700000,719, Graduate,Approved
+939,yes,1400000,312, Not Graduate,Rejected
+1773,yes,8700000,312, Not Graduate,Approved
+322,yes,6400000,485, Not Graduate,Approved
+1994,yes,9200000,760, Not Graduate,Approved
+2368,yes,8900000,404, Graduate,Rejected
+2700,yes,5500000,354, Graduate,Rejected
+3140,yes,300000,515, Not Graduate,Rejected
+2706,yes,6900000,447, Graduate,Rejected
+3629,yes,8600000,758, Graduate,Approved
+1725,yes,200000,511, Not Graduate,Approved
+1004,yes,3300000,360, Graduate,Rejected
+3933,yes,3400000,745, Graduate,Approved
+372,yes,1100000,592, Graduate,Approved
+2394,yes,9200000,448, Not Graduate,Rejected
+3910,yes,9100000,304, Not Graduate,Approved
+2034,yes,3200000,565, Not Graduate,Approved
+370,yes,900000,611, Graduate,Approved
+3479,yes,9400000,302, Graduate,Rejected
+2884,yes,2100000,348, Not Graduate,Rejected
+3883,yes,9700000,756, Graduate,Approved
+1873,yes,6900000,606, Graduate,Approved
+3613,yes,200000,724, Not Graduate,Approved
+1059,yes,3000000,424, Not Graduate,Rejected
+676,yes,4600000,613, Not Graduate,Approved
+3111,yes,700000,400, Graduate,Rejected
+4233,yes,200000,713, Graduate,Approved
+426,yes,1100000,431, Graduate,Rejected
+3439,yes,6800000,865, Not Graduate,Approved
+763,yes,5600000,457, Not Graduate,Rejected
+2140,yes,8800000,406, Graduate,Approved
+3618,yes,2000000,651, Not Graduate,Approved
+1212,yes,9600000,515, Not Graduate,Rejected
+3552,yes,7600000,867, Not Graduate,Approved
+489,yes,2500000,540, Graduate,Rejected
+3003,yes,3500000,883, Graduate,Approved
+1613,yes,5800000,851, Graduate,Approved
+1871,yes,8300000,615, Not Graduate,Approved
+2847,yes,9800000,827, Not Graduate,Approved
+3704,yes,8400000,378, Not Graduate,Rejected
+603,yes,3700000,709, Graduate,Approved
+869,yes,6300000,428, Graduate,Rejected
+4176,yes,6900000,494, Not Graduate,Rejected
+285,yes,600000,417, Not Graduate,Rejected
+598,yes,700000,362, Graduate,Rejected
+1951,yes,200000,587, Graduate,Rejected
+859,yes,2400000,337, Not Graduate,Rejected
+1330,yes,3000000,541, Not Graduate,Rejected
+2247,yes,3300000,816, Graduate,Approved
+3341,yes,4400000,513, Graduate,Rejected
+724,yes,600000,319, Not Graduate,Rejected
+1146,yes,6100000,706, Graduate,Approved
+1899,yes,800000,589, Graduate,Approved
+2477,yes,8700000,778, Graduate,Approved
+3879,yes,5600000,856, Not Graduate,Approved
+1654,yes,6400000,684, Not Graduate,Approved
+1979,yes,3900000,783, Not Graduate,Approved
+374,yes,9200000,900, Not Graduate,Approved
+2168,yes,7000000,380, Not Graduate,Rejected
+1245,yes,8800000,712, Graduate,Approved
+2095,yes,3300000,648, Graduate,Approved
+2685,yes,3500000,454, Not Graduate,Rejected
+4137,yes,7100000,790, Graduate,Approved
+1634,yes,9800000,573, Graduate,Approved
+3189,yes,7100000,700, Graduate,Approved
+813,yes,5200000,809, Not Graduate,Approved
+1577,yes,5900000,794, Graduate,Approved
+2454,yes,1500000,826, Not Graduate,Approved
+576,yes,1700000,583, Graduate,Approved
+2940,yes,7000000,726, Graduate,Approved
+929,yes,4000000,436, Not Graduate,Rejected
+3932,yes,3600000,795, Graduate,Approved
+2660,yes,8400000,514, Not Graduate,Rejected
+2041,yes,5600000,459, Not Graduate,Rejected
+2701,yes,2900000,719, Not Graduate,Approved
+3064,yes,3500000,301, Graduate,Rejected
+262,yes,7400000,716, Graduate,Approved
+1781,yes,2400000,709, Graduate,Approved
+2032,yes,4400000,806, Graduate,Approved
+692,yes,900000,747, Not Graduate,Approved
+3372,yes,6800000,344, Graduate,Rejected
+1387,yes,6600000,379, Graduate,Rejected
+3441,yes,1200000,768, Graduate,Approved
+2194,yes,7800000,587, Graduate,Approved
+1984,yes,1700000,321, Not Graduate,Rejected
+3238,yes,6900000,438, Graduate,Rejected
+291,yes,4300000,450, Not Graduate,Rejected
+3583,yes,7100000,557, Not Graduate,Approved
+3000,yes,6800000,565, Graduate,Approved
+2543,yes,4000000,356, Graduate,Rejected
+3517,yes,6900000,673, Graduate,Approved
+2507,yes,5900000,626, Not Graduate,Approved
+2330,yes,9000000,532, Graduate,Rejected
+3293,yes,5400000,688, Graduate,Approved
+1443,yes,6000000,672, Graduate,Approved
+2165,yes,4600000,618, Not Graduate,Approved
+3744,yes,5500000,673, Graduate,Approved
+18,yes,2900000,780, Not Graduate,Approved
+2733,yes,5000000,711, Not Graduate,Approved
+2697,yes,2400000,740, Not Graduate,Approved
+1530,yes,9000000,426, Graduate,Approved
+1254,yes,3500000,649, Graduate,Approved
+4027,yes,6800000,736, Not Graduate,Approved
+270,yes,4200000,678, Graduate,Approved
+1697,yes,5800000,835, Not Graduate,Approved
+626,yes,5900000,742, Not Graduate,Approved
+3453,yes,2300000,431, Not Graduate,Rejected
+29,yes,7000000,336, Not Graduate,Rejected
+2997,yes,7100000,477, Not Graduate,Rejected
+438,yes,4500000,391, Not Graduate,Rejected
+2386,yes,6800000,699, Not Graduate,Approved
+2823,yes,1400000,621, Not Graduate,Approved
+3829,yes,2600000,470, Not Graduate,Rejected
+1740,yes,2500000,478, Not Graduate,Rejected
+1038,yes,7800000,430, Graduate,Rejected
+1208,yes,300000,816, Not Graduate,Approved
+398,yes,700000,583, Graduate,Approved
+558,yes,4200000,686, Graduate,Approved
+1901,yes,4300000,532, Not Graduate,Rejected
+2675,yes,2800000,801, Not Graduate,Approved
+3086,yes,8300000,530, Not Graduate,Rejected
+1098,yes,5100000,559, Not Graduate,Approved
+323,yes,4900000,612, Graduate,Approved
+836,yes,3500000,786, Not Graduate,Approved
+1850,yes,8500000,511, Not Graduate,Rejected
+957,yes,9100000,387, Not Graduate,Rejected
+3196,yes,6000000,680, Not Graduate,Approved
+1106,yes,8000000,682, Not Graduate,Approved
+775,yes,7300000,616, Graduate,Approved
+1166,yes,5400000,753, Not Graduate,Approved
+3808,yes,1100000,832, Graduate,Approved
+4096,yes,5200000,407, Not Graduate,Rejected
+4031,yes,5000000,517, Not Graduate,Rejected
+1645,yes,2900000,315, Not Graduate,Rejected
+4080,yes,2100000,656, Graduate,Approved
+2030,yes,2500000,420, Graduate,Rejected
+4203,yes,7700000,885, Graduate,Approved
+1340,yes,8800000,545, Not Graduate,Rejected
+3841,yes,5100000,312, Not Graduate,Rejected
+293,yes,3600000,312, Graduate,Rejected
+4030,yes,1200000,827, Not Graduate,Approved
+2676,yes,5400000,533, Graduate,Approved
+839,yes,5400000,841, Not Graduate,Approved
+1606,yes,8800000,865, Not Graduate,Approved
+1234,yes,4600000,463, Not Graduate,Rejected
+573,yes,1300000,627, Not Graduate,Approved
+800,yes,5100000,399, Not Graduate,Rejected
+197,yes,400000,669, Not Graduate,Approved
+2977,yes,9400000,873, Not Graduate,Approved
+4208,yes,2300000,469, Not Graduate,Rejected
+275,yes,1700000,591, Graduate,Approved
+2311,yes,7100000,437, Graduate,Rejected
+2449,yes,6100000,400, Graduate,Rejected
+3015,yes,2500000,464, Graduate,Rejected
+3370,yes,800000,409, Graduate,Approved
+1470,yes,6900000,829, Graduate,Approved
+3271,yes,1800000,436, Not Graduate,Rejected
+528,yes,2100000,744, Not Graduate,Approved
+3049,yes,2600000,421, Graduate,Rejected
+1830,yes,3000000,518, Not Graduate,Rejected
+3289,yes,4800000,547, Graduate,Rejected
+3899,yes,8000000,765, Not Graduate,Approved
+740,yes,2000000,429, Graduate,Rejected
+650,yes,5100000,459, Graduate,Rejected
+2622,yes,9000000,637, Graduate,Approved
+3923,yes,1300000,566, Graduate,Approved
+1818,yes,9200000,765, Graduate,Approved
+1575,yes,2800000,655, Not Graduate,Approved
+2562,yes,700000,523, Not Graduate,Rejected
+639,yes,5200000,778, Graduate,Approved
+3434,yes,2900000,692, Graduate,Approved
+24,yes,500000,551, Not Graduate,Approved
+1795,yes,4100000,846, Graduate,Approved
+359,yes,8200000,372, Graduate,Rejected
+515,yes,7900000,373, Graduate,Rejected
+3351,yes,4100000,670, Not Graduate,Approved
+3628,yes,8800000,561, Graduate,Approved
+1800,yes,9500000,493, Not Graduate,Rejected
+513,yes,7800000,435, Graduate,Rejected
+1698,yes,9400000,389, Graduate,Rejected
+289,yes,3100000,824, Not Graduate,Approved
+619,yes,2000000,834, Not Graduate,Approved
+3838,yes,2600000,400, Not Graduate,Rejected
+3600,yes,5200000,644, Not Graduate,Approved
+2662,yes,4700000,802, Graduate,Approved
+1120,yes,8100000,794, Not Graduate,Approved
+290,yes,7700000,549, Not Graduate,Rejected
+3862,yes,5400000,821, Not Graduate,Approved
+1064,yes,800000,752, Graduate,Approved
+457,yes,5400000,555, Graduate,Approved
+1469,yes,9500000,881, Not Graduate,Approved
+3831,yes,4300000,572, Graduate,Approved
+3747,yes,5000000,525, Graduate,Rejected
+629,yes,4500000,418, Not Graduate,Rejected
+4045,yes,4300000,849, Not Graduate,Approved
+2471,yes,5100000,747, Graduate,Approved
+1446,yes,1800000,689, Graduate,Approved
+1705,yes,5200000,370, Not Graduate,Rejected
+395,yes,2200000,737, Not Graduate,Approved
+1157,yes,5900000,410, Graduate,Rejected
+1893,yes,9300000,701, Not Graduate,Approved
+1014,yes,5100000,628, Graduate,Approved
+3708,yes,1700000,524, Graduate,Rejected
+2630,yes,5600000,606, Not Graduate,Approved
+3995,yes,7000000,632, Not Graduate,Approved
+8,yes,5700000,382, Graduate,Rejected
+2603,yes,4400000,611, Not Graduate,Approved
+938,yes,5900000,730, Graduate,Approved
+11,yes,2900000,547, Graduate,Approved
+3077,yes,1600000,532, Graduate,Rejected
+1094,yes,3800000,301, Graduate,Rejected
+464,yes,3800000,710, Graduate,Approved
+2139,yes,6600000,598, Not Graduate,Approved
+1086,yes,9600000,446, Not Graduate,Approved
+485,yes,5400000,677, Graduate,Approved
+1796,yes,4600000,856, Graduate,Approved
+2571,yes,6100000,862, Not Graduate,Approved
+2324,yes,1900000,742, Not Graduate,Approved
+3482,yes,4200000,710, Graduate,Approved
+2482,yes,2100000,320, Not Graduate,Approved
+1696,yes,7900000,750, Graduate,Approved
+3179,yes,5800000,418, Not Graduate,Rejected
+2614,yes,9600000,500, Not Graduate,Rejected
+536,yes,4300000,383, Not Graduate,Rejected
+1334,yes,5000000,641, Graduate,Approved
+2717,yes,7100000,770, Not Graduate,Approved
+605,yes,4300000,623, Graduate,Approved
+1402,yes,4900000,439, Graduate,Rejected
+3378,yes,6700000,798, Graduate,Approved
+842,yes,8300000,600, Graduate,Approved
+1205,yes,1800000,461, Graduate,Rejected
+4235,yes,1500000,837, Not Graduate,Approved
+1247,yes,7600000,690, Graduate,Approved
+3857,yes,1200000,605, Graduate,Approved
+4199,yes,5100000,477, Graduate,Rejected
+462,yes,1000000,885, Graduate,Approved
+2547,yes,5900000,798, Not Graduate,Approved
+2344,yes,1300000,669, Graduate,Approved
+2979,yes,3600000,546, Not Graduate,Rejected
+2511,yes,4600000,417, Not Graduate,Approved
+149,yes,4900000,709, Not Graduate,Approved
+50,yes,9500000,662, Not Graduate,Approved
+296,yes,300000,431, Not Graduate,Rejected
+1070,yes,8500000,714, Graduate,Approved
+1632,yes,7100000,838, Graduate,Approved
+2550,yes,1000000,525, Graduate,Rejected
+187,yes,1700000,888, Not Graduate,Approved
+2980,yes,3400000,741, Not Graduate,Approved
+2672,yes,3800000,899, Not Graduate,Approved
+2917,yes,500000,824, Not Graduate,Approved
+4052,yes,6200000,820, Graduate,Approved
+4073,yes,5300000,580, Graduate,Approved
+3073,yes,8000000,738, Not Graduate,Approved
+4211,yes,9200000,716, Not Graduate,Approved
+703,yes,6300000,899, Graduate,Approved
+3598,yes,4000000,517, Not Graduate,Rejected
+2612,yes,4800000,369, Not Graduate,Rejected
+2064,yes,2700000,687, Not Graduate,Approved
+2070,yes,6500000,653, Graduate,Approved
+3421,yes,6300000,844, Not Graduate,Approved
+3038,yes,8700000,548, Not Graduate,Rejected
+3108,yes,9000000,348, Graduate,Rejected
+1342,yes,8300000,840, Graduate,Approved
+705,yes,1300000,595, Graduate,Approved
+171,yes,3800000,886, Not Graduate,Approved
+58,yes,9300000,841, Graduate,Approved
+3901,yes,8200000,405, Graduate,Rejected
+1056,yes,5900000,444, Not Graduate,Rejected
+1473,yes,5200000,650, Graduate,Approved
+127,yes,400000,859, Not Graduate,Approved
+1286,yes,3100000,427, Not Graduate,Rejected
+587,yes,9100000,741, Not Graduate,Approved
+1457,yes,1500000,304, Graduate,Approved
+1249,yes,8200000,839, Not Graduate,Approved
+13,yes,5000000,311, Not Graduate,Rejected
+1617,yes,9700000,754, Not Graduate,Approved
+2105,yes,7700000,407, Not Graduate,Rejected
+657,yes,3700000,424, Graduate,Rejected
+107,yes,9000000,764, Not Graduate,Approved
+3323,yes,1800000,453, Graduate,Rejected
+229,yes,8700000,717, Not Graduate,Approved
+680,yes,900000,683, Not Graduate,Approved
+2177,yes,6700000,782, Graduate,Approved
+479,yes,3600000,790, Not Graduate,Approved
+434,yes,6300000,629, Graduate,Approved
+2295,yes,7500000,767, Graduate,Approved
+2803,yes,5100000,533, Not Graduate,Rejected
+4017,yes,9200000,632, Not Graduate,Approved
+1600,yes,3900000,591, Not Graduate,Approved
+2202,yes,9300000,419, Not Graduate,Rejected
+2668,yes,3500000,645, Graduate,Approved
+2890,yes,1800000,728, Not Graduate,Approved
+3781,yes,600000,576, Graduate,Approved
+3721,yes,5900000,765, Not Graduate,Approved
+1051,yes,2500000,389, Not Graduate,Rejected
+468,yes,300000,482, Not Graduate,Approved
+1297,yes,3900000,715, Not Graduate,Approved
+3392,yes,3300000,845, Graduate,Approved
+1066,yes,1800000,343, Not Graduate,Rejected
+3396,yes,600000,335, Not Graduate,Rejected
+1219,yes,700000,618, Graduate,Approved
+4133,yes,7800000,513, Graduate,Rejected
+2166,yes,900000,583, Graduate,Approved
+2919,yes,6500000,722, Not Graduate,Approved
+138,yes,2200000,382, Not Graduate,Rejected
+2825,yes,200000,856, Graduate,Approved
+202,yes,3800000,389, Not Graduate,Rejected
+1345,yes,9500000,535, Not Graduate,Approved
+2531,yes,2400000,368, Not Graduate,Rejected
+3617,yes,6100000,890, Graduate,Approved
+542,yes,4400000,409, Not Graduate,Rejected
+2721,yes,5400000,359, Not Graduate,Rejected
+699,yes,8100000,420, Graduate,Rejected
+2565,yes,1100000,538, Graduate,Approved
+2893,yes,6800000,576, Graduate,Approved
+1709,yes,2400000,543, Not Graduate,Rejected
+2422,yes,4700000,876, Graduate,Approved
+3084,yes,8400000,397, Not Graduate,Rejected
+234,yes,8800000,386, Not Graduate,Rejected
+97,yes,6600000,470, Graduate,Rejected
+260,yes,300000,789, Not Graduate,Approved
+418,yes,2100000,327, Graduate,Rejected
+117,yes,5800000,456, Not Graduate,Rejected
+1089,yes,7800000,739, Not Graduate,Approved
+152,yes,8900000,772, Graduate,Approved
+2579,yes,3000000,415, Graduate,Rejected
+3464,yes,7400000,600, Graduate,Approved
+376,yes,1300000,755, Not Graduate,Approved
+287,yes,3000000,672, Graduate,Approved
+1798,yes,8000000,306, Not Graduate,Rejected
+1603,yes,9700000,542, Graduate,Rejected
+280,yes,3900000,433, Graduate,Rejected
+175,yes,6600000,371, Not Graduate,Rejected
+4247,yes,3100000,871, Graduate,Approved
+3448,yes,8200000,726, Not Graduate,Approved
+1082,yes,4800000,696, Not Graduate,Approved
+3572,yes,800000,395, Graduate,Rejected
+1981,yes,4700000,552, Graduate,Approved
+338,yes,4000000,451, Graduate,Rejected
+497,yes,9800000,867, Graduate,Approved
+894,yes,7500000,744, Not Graduate,Approved
+2602,yes,7000000,498, Graduate,Rejected
+1729,yes,700000,303, Not Graduate,Rejected
+3959,yes,7300000,848, Not Graduate,Approved
+215,yes,6700000,689, Not Graduate,Approved
+1619,yes,5300000,510, Not Graduate,Rejected
+1495,yes,2200000,539, Graduate,Rejected
+2810,yes,9600000,427, Graduate,Rejected
+223,yes,3900000,473, Not Graduate,Rejected
+867,yes,8900000,741, Not Graduate,Approved
+165,yes,8100000,737, Graduate,Approved
+4020,yes,5500000,332, Graduate,Approved
+2703,yes,9700000,732, Not Graduate,Approved
+2808,yes,1600000,787, Not Graduate,Approved
+2475,yes,7500000,628, Graduate,Approved
+1838,yes,4400000,740, Not Graduate,Approved
+3822,yes,600000,509, Graduate,Rejected
+3720,yes,4900000,668, Not Graduate,Approved
+3614,yes,1400000,320, Graduate,Rejected
+1548,yes,9900000,371, Graduate,Rejected
+1993,yes,7300000,851, Not Graduate,Approved
+768,yes,8900000,859, Not Graduate,Approved
+473,yes,8800000,775, Not Graduate,Approved
+3388,yes,300000,774, Graduate,Approved
+525,yes,9800000,721, Graduate,Approved
+2677,yes,6300000,656, Not Graduate,Approved
+242,yes,7000000,378, Not Graduate,Rejected
+3590,yes,7400000,561, Graduate,Approved
+1368,yes,2400000,650, Graduate,Approved
+500,yes,8400000,698, Not Graduate,Approved
+3671,yes,600000,495, Not Graduate,Rejected
+4260,yes,4500000,509, Not Graduate,Rejected
+205,yes,9600000,870, Not Graduate,Approved
+68,yes,2700000,693, Not Graduate,Rejected
+3279,yes,6600000,353, Graduate,Rejected
+3713,yes,5800000,444, Not Graduate,Rejected
+901,yes,5400000,721, Graduate,Approved
+1451,yes,2600000,651, Graduate,Approved
+3837,yes,5700000,488, Graduate,Rejected
+3412,yes,6700000,508, Graduate,Rejected
+2,yes,4100000,417, Not Graduate,Rejected
+3078,yes,3400000,584, Graduate,Approved
+2210,yes,5400000,354, Not Graduate,Approved
+2227,yes,400000,688, Not Graduate,Approved
+2746,yes,8800000,708, Not Graduate,Approved
+181,yes,4500000,787, Not Graduate,Approved
+2879,yes,3800000,857, Graduate,Approved
+1374,yes,6800000,841, Not Graduate,Approved
+3258,yes,2700000,671, Graduate,Approved
+2100,yes,6100000,538, Graduate,Rejected
+1564,yes,500000,811, Not Graduate,Approved
+2728,yes,9100000,836, Graduate,Approved
+2867,yes,1000000,725, Not Graduate,Approved
+3538,yes,8300000,636, Graduate,Approved
+3342,yes,1200000,585, Not Graduate,Approved
+808,yes,3300000,608, Not Graduate,Approved
+3851,yes,2500000,735, Not Graduate,Approved
+2900,yes,2200000,585, Graduate,Approved
+3891,yes,6200000,882, Graduate,Approved
+225,yes,700000,733, Not Graduate,Approved
+1397,yes,7600000,896, Not Graduate,Approved
+4252,yes,6100000,645, Graduate,Approved
+1659,yes,2000000,570, Graduate,Approved
+2500,yes,2700000,899, Not Graduate,Approved
+141,yes,2500000,727, Not Graduate,Approved
+2607,yes,2200000,308, Graduate,Rejected
+1721,yes,3800000,540, Graduate,Rejected
+3561,yes,6500000,360, Graduate,Rejected
+2537,yes,9800000,760, Graduate,Approved
+453,yes,700000,539, Not Graduate,Rejected
+297,yes,8600000,516, Not Graduate,Rejected
+2192,yes,3600000,641, Not Graduate,Approved
+737,yes,4300000,719, Graduate,Approved
+3184,yes,2900000,693, Not Graduate,Approved
+2291,yes,5100000,733, Not Graduate,Approved
+4207,yes,2100000,765, Not Graduate,Approved
+3362,yes,2600000,676, Graduate,Approved
+2555,yes,5000000,307, Not Graduate,Rejected
+2540,yes,3300000,754, Graduate,Approved
+3584,yes,8200000,334, Graduate,Rejected
+2887,yes,3900000,523, Not Graduate,Rejected
+17,yes,500000,663, Graduate,Approved
+907,yes,6400000,592, Graduate,Approved
+1433,yes,2900000,588, Not Graduate,Approved
+509,yes,4100000,442, Graduate,Rejected
+1774,yes,5500000,842, Graduate,Approved
+774,yes,9000000,440, Graduate,Rejected
+2933,yes,2800000,510, Not Graduate,Rejected
+1814,yes,5200000,406, Not Graduate,Rejected
+1852,yes,1400000,451, Not Graduate,Rejected
+3804,yes,9400000,615, Graduate,Approved
+2757,yes,2800000,534, Graduate,Rejected
+928,yes,7200000,558, Graduate,Approved
+2837,yes,1700000,882, Not Graduate,Approved
+3792,yes,1000000,613, Not Graduate,Approved
+2342,yes,8000000,720, Graduate,Approved
+1923,yes,5300000,708, Not Graduate,Approved
+1007,yes,2500000,761, Graduate,Approved
+1498,yes,900000,521, Not Graduate,Rejected
+88,yes,8700000,402, Not Graduate,Rejected
+1748,yes,3500000,314, Not Graduate,Rejected
+1483,yes,2300000,712, Not Graduate,Approved
+1079,yes,9800000,301, Not Graduate,Rejected
+2414,yes,6900000,515, Graduate,Rejected
+2673,yes,1400000,610, Graduate,Approved
+1410,yes,9900000,490, Graduate,Rejected
+3122,yes,500000,627, Graduate,Approved
+3082,yes,8200000,447, Not Graduate,Rejected
+3973,yes,9400000,565, Graduate,Approved
+2296,yes,6400000,813, Graduate,Approved
+2072,yes,5400000,477, Graduate,Rejected
+735,yes,5300000,393, Graduate,Rejected
+1347,yes,7700000,735, Graduate,Approved
+3427,yes,8700000,543, Graduate,Rejected
+697,yes,1100000,874, Not Graduate,Approved
+1948,yes,4800000,740, Graduate,Approved
+1589,yes,5600000,407, Graduate,Rejected
+1488,yes,1400000,543, Not Graduate,Rejected
+2693,yes,9700000,666, Not Graduate,Approved
+2081,yes,1000000,304, Graduate,Rejected
+1953,yes,8000000,399, Not Graduate,Rejected
+3426,yes,7000000,481, Graduate,Rejected
+3340,yes,1900000,622, Graduate,Approved
+3939,yes,4700000,639, Not Graduate,Approved
+3540,yes,4700000,678, Graduate,Approved
+3425,yes,2400000,581, Graduate,Approved
+2653,yes,7000000,584, Graduate,Approved
+3029,yes,2100000,554, Not Graduate,Approved
+3597,yes,2300000,583, Not Graduate,Approved
+3816,yes,9500000,500, Not Graduate,Approved
+2520,yes,1100000,346, Not Graduate,Rejected
+3776,yes,400000,665, Not Graduate,Approved
+3828,yes,9600000,534, Graduate,Rejected
+2489,yes,2700000,547, Graduate,Rejected
+1778,yes,3700000,605, Graduate,Approved
+174,yes,7400000,376, Not Graduate,Rejected
+2356,yes,4100000,548, Not Graduate,Rejected
+1635,yes,9800000,611, Graduate,Approved
+2875,yes,2600000,630, Not Graduate,Approved
+1355,yes,600000,843, Not Graduate,Approved
+3436,yes,7600000,439, Graduate,Rejected
+131,yes,9500000,565, Not Graduate,Approved
+281,yes,900000,713, Graduate,Approved
+2289,yes,5000000,575, Not Graduate,Approved
+1868,yes,6200000,900, Not Graduate,Approved
+3749,yes,3000000,331, Not Graduate,Rejected
+1650,yes,1300000,810, Not Graduate,Approved
+2828,yes,5100000,308, Not Graduate,Rejected
+3056,yes,300000,386, Not Graduate,Rejected
+2447,yes,3500000,389, Graduate,Approved
+1016,yes,8600000,804, Graduate,Approved
+3966,yes,8900000,767, Graduate,Approved
+677,yes,4600000,769, Not Graduate,Approved
+764,yes,1000000,854, Graduate,Approved
+2059,yes,6600000,457, Not Graduate,Rejected
+2739,yes,600000,699, Not Graduate,Approved
+1792,yes,1800000,440, Not Graduate,Rejected
+1663,yes,4900000,575, Not Graduate,Approved
+4169,yes,7100000,435, Not Graduate,Rejected
+954,yes,8700000,660, Graduate,Approved
+3292,yes,8400000,605, Not Graduate,Approved
+3247,yes,5400000,724, Not Graduate,Approved
+3129,yes,500000,617, Not Graduate,Approved
+1310,yes,8500000,597, Graduate,Approved
+361,yes,9900000,596, Not Graduate,Approved
+2304,yes,8400000,384, Graduate,Rejected
+85,yes,3000000,713, Not Graduate,Approved
+1445,yes,3400000,615, Graduate,Approved
+200,yes,4700000,318, Graduate,Rejected
+339,yes,6800000,628, Not Graduate,Approved
+2418,yes,7800000,474, Not Graduate,Approved
+1765,yes,600000,885, Not Graduate,Approved
+3885,yes,5600000,531, Not Graduate,Rejected
+4220,yes,5600000,692, Graduate,Approved
+4166,yes,8200000,588, Not Graduate,Approved
+2199,yes,1000000,360, Not Graduate,Rejected
+2318,yes,2300000,364, Graduate,Rejected
+2645,yes,4100000,505, Not Graduate,Rejected
+3053,yes,200000,852, Graduate,Approved
+2690,yes,6000000,486, Not Graduate,Rejected
+1030,yes,9500000,887, Not Graduate,Approved
+1002,yes,4900000,722, Graduate,Approved
+3569,yes,2900000,783, Not Graduate,Approved
+3592,yes,700000,544, Not Graduate,Rejected
+660,yes,1200000,638, Graduate,Approved
+4106,yes,2100000,592, Graduate,Approved
+2387,yes,5000000,624, Not Graduate,Approved
+60,yes,5500000,797, Not Graduate,Approved
+2450,yes,5200000,718, Graduate,Approved
+2956,yes,1200000,473, Graduate,Rejected
+1601,yes,1700000,636, Graduate,Approved
+1890,yes,6900000,307, Graduate,Rejected
+3295,yes,800000,518, Not Graduate,Approved
+350,yes,5800000,742, Not Graduate,Approved
+3631,yes,2900000,621, Graduate,Approved
+2402,yes,4100000,307, Not Graduate,Rejected
+2522,yes,3500000,626, Graduate,Approved
+3132,yes,200000,859, Graduate,Approved
+1822,yes,1500000,382, Graduate,Rejected
+986,yes,4300000,525, Not Graduate,Rejected
+1906,yes,8700000,766, Graduate,Approved
+2203,yes,7200000,640, Not Graduate,Approved
+2078,yes,200000,579, Not Graduate,Approved
+1193,yes,9300000,636, Graduate,Approved
+1525,yes,3000000,819, Not Graduate,Approved
+1320,yes,3800000,891, Graduate,Approved
+471,yes,6900000,303, Not Graduate,Rejected
+1484,yes,5600000,695, Not Graduate,Approved
+4255,yes,8900000,372, Not Graduate,Rejected
+3641,yes,7800000,876, Not Graduate,Approved
+2319,yes,9600000,499, Not Graduate,Rejected
+3291,yes,5400000,784, Graduate,Approved
+3194,yes,7700000,663, Graduate,Approved
+3918,yes,6500000,360, Graduate,Rejected
+1869,yes,9800000,634, Not Graduate,Approved
+2436,yes,9600000,456, Graduate,Rejected
+2142,yes,4400000,806, Graduate,Approved
+231,yes,4000000,598, Graduate,Approved
+3454,yes,600000,445, Graduate,Rejected
+1148,yes,900000,464, Not Graduate,Rejected
+2336,yes,2600000,697, Not Graduate,Approved
+2363,yes,6100000,428, Graduate,Rejected
+2967,yes,3500000,874, Not Graduate,Approved
+2938,yes,2200000,641, Not Graduate,Approved
+1784,yes,8000000,649, Graduate,Approved
+1895,yes,8100000,384, Graduate,Rejected
+2104,yes,4100000,792, Graduate,Approved
+3770,yes,800000,461, Not Graduate,Approved
+3071,yes,9700000,663, Graduate,Approved
+3245,yes,7100000,725, Not Graduate,Approved
+1777,yes,7500000,300, Not Graduate,Rejected
+3722,yes,500000,476, Graduate,Approved
+4201,yes,6600000,377, Graduate,Rejected
+1716,yes,4700000,600, Not Graduate,Approved
+2780,yes,3900000,737, Graduate,Approved
+1486,yes,1800000,426, Not Graduate,Rejected
+1455,yes,300000,469, Not Graduate,Rejected
+920,yes,8800000,715, Not Graduate,Approved
+520,yes,500000,427, Graduate,Rejected
+169,yes,9100000,341, Not Graduate,Rejected
+3694,yes,5400000,399, Graduate,Rejected
+890,yes,4800000,350, Not Graduate,Rejected
+788,yes,2600000,820, Graduate,Approved
+368,yes,9400000,377, Not Graduate,Rejected
+2091,yes,300000,457, Graduate,Approved
+3865,yes,1100000,891, Not Graduate,Approved
+3139,yes,1700000,754, Graduate,Approved
+3896,yes,1800000,317, Graduate,Rejected
+3093,yes,8600000,449, Not Graduate,Rejected
+1206,yes,7000000,379, Not Graduate,Rejected
+139,yes,2900000,564, Not Graduate,Approved
+2591,yes,3700000,538, Not Graduate,Rejected
+1755,yes,2100000,787, Not Graduate,Approved
+3343,yes,1000000,813, Graduate,Approved
+440,yes,9500000,731, Graduate,Approved
+540,yes,3400000,783, Not Graduate,Approved
+3055,yes,9200000,874, Not Graduate,Approved
+2754,yes,3800000,351, Graduate,Approved
+74,yes,5800000,735, Not Graduate,Approved
+3404,yes,4800000,523, Graduate,Approved
+1335,yes,500000,640, Graduate,Approved
+4057,yes,7800000,533, Graduate,Rejected
+3240,yes,4100000,383, Not Graduate,Rejected
+1968,yes,6000000,783, Not Graduate,Approved
+3512,yes,7300000,759, Graduate,Approved
+1497,yes,2500000,485, Not Graduate,Rejected
+391,yes,7200000,658, Not Graduate,Approved
+1844,yes,1200000,540, Graduate,Rejected
+922,yes,2100000,346, Not Graduate,Rejected
+2796,yes,7300000,673, Not Graduate,Approved
+1371,yes,8900000,415, Graduate,Rejected
+1544,yes,600000,454, Graduate,Rejected
+4058,yes,7400000,899, Not Graduate,Approved
+3585,yes,9800000,487, Graduate,Rejected
+1479,yes,7000000,610, Graduate,Approved
+3670,yes,7100000,891, Not Graduate,Approved
+2769,yes,7700000,400, Not Graduate,Rejected
+822,yes,2000000,900, Not Graduate,Approved
+2206,yes,9900000,559, Not Graduate,Approved
+2995,yes,8600000,476, Not Graduate,Rejected
+3006,yes,6400000,699, Graduate,Approved
+1655,yes,7700000,578, Not Graduate,Approved
+3366,yes,7800000,490, Not Graduate,Rejected
+1236,yes,8400000,308, Graduate,Approved
+238,yes,4100000,667, Graduate,Approved
+834,yes,3500000,664, Not Graduate,Approved
+4193,yes,3200000,670, Not Graduate,Approved
+1952,yes,2500000,569, Not Graduate,Approved
+1220,yes,8600000,711, Not Graduate,Approved
+4198,yes,8600000,894, Not Graduate,Approved
+199,yes,8500000,455, Not Graduate,Rejected
+1712,yes,6900000,330, Graduate,Rejected
+3415,yes,6500000,427, Not Graduate,Rejected
+4197,yes,7800000,646, Graduate,Approved
+1529,yes,400000,759, Graduate,Approved
+1001,yes,2900000,806, Not Graduate,Approved
+2558,yes,6700000,304, Not Graduate,Approved
+2646,yes,800000,467, Not Graduate,Rejected
+23,yes,6500000,311, Graduate,Rejected
+791,yes,4600000,561, Not Graduate,Approved
+554,yes,200000,641, Not Graduate,Approved
+3985,yes,7100000,363, Not Graduate,Rejected
+2145,yes,6600000,811, Not Graduate,Approved
+2391,yes,4800000,779, Graduate,Approved
+2846,yes,7800000,622, Not Graduate,Approved
+4129,yes,6800000,382, Not Graduate,Rejected
+2866,yes,5600000,552, Not Graduate,Approved
+1401,yes,600000,884, Not Graduate,Approved
+3636,yes,5400000,512, Not Graduate,Approved
+3098,yes,7100000,738, Graduate,Approved
+4143,yes,7600000,843, Not Graduate,Approved
+1398,yes,9200000,545, Not Graduate,Rejected
+1719,yes,7600000,691, Not Graduate,Approved
+2948,yes,3400000,830, Not Graduate,Approved
+327,yes,3900000,516, Not Graduate,Rejected
+1793,yes,800000,825, Not Graduate,Approved
+3520,yes,7700000,453, Graduate,Rejected
+511,yes,3200000,372, Not Graduate,Rejected
+652,yes,1600000,391, Graduate,Rejected
+4147,yes,9700000,612, Graduate,Approved
+2088,yes,5400000,758, Graduate,Approved
+1037,yes,7800000,840, Graduate,Approved
+2687,yes,6400000,332, Not Graduate,Rejected
+2044,yes,4200000,796, Not Graduate,Approved
+1562,yes,3100000,730, Graduate,Approved
+3890,yes,3200000,664, Graduate,Approved
+1546,yes,8200000,827, Not Graduate,Approved
+2509,yes,3200000,849, Not Graduate,Approved
+2416,yes,600000,521, Not Graduate,Rejected
+3288,yes,8700000,558, Not Graduate,Approved
+2254,yes,2300000,430, Graduate,Rejected
+1047,yes,2500000,325, Not Graduate,Rejected
+47,yes,4200000,679, Not Graduate,Approved
+696,yes,1100000,889, Not Graduate,Approved
+2560,yes,5900000,855, Graduate,Approved
+2619,yes,3800000,730, Not Graduate,Approved
+3746,yes,5700000,732, Graduate,Approved
+665,yes,9400000,517, Not Graduate,Rejected
+860,yes,600000,511, Not Graduate,Rejected
+947,yes,9600000,745, Graduate,Approved
+442,yes,9600000,897, Graduate,Approved
+1820,yes,7600000,344, Graduate,Rejected
+2467,yes,4100000,760, Graduate,Approved
+3573,yes,400000,885, Not Graduate,Approved
+2037,yes,9300000,728, Not Graduate,Approved
+1922,yes,7800000,335, Graduate,Rejected
+204,yes,6900000,352, Graduate,Rejected
+2033,yes,1400000,723, Graduate,Approved
+2156,yes,4600000,837, Graduate,Approved
+2198,yes,9600000,319, Graduate,Rejected
+3550,yes,5000000,775, Not Graduate,Approved
+2613,yes,7400000,687, Not Graduate,Approved
+1409,yes,2000000,571, Not Graduate,Approved
+4022,yes,7900000,593, Not Graduate,Approved
+2011,yes,3800000,516, Not Graduate,Rejected
+2877,yes,2400000,851, Graduate,Approved
+320,yes,2300000,540, Not Graduate,Rejected
+2207,yes,700000,650, Not Graduate,Approved
+3834,yes,5000000,424, Not Graduate,Rejected
+4266,yes,3300000,559, Not Graduate,Approved
+1596,yes,4900000,663, Not Graduate,Approved
+1168,yes,8200000,619, Graduate,Approved
+2894,yes,1100000,863, Graduate,Approved
+1421,yes,9000000,797, Graduate,Approved
+2445,yes,5800000,847, Not Graduate,Approved
+2588,yes,1200000,667, Graduate,Approved
+3711,yes,4500000,307, Not Graduate,Rejected
+2530,yes,400000,468, Not Graduate,Rejected
+974,yes,1900000,641, Graduate,Approved
+3204,yes,9200000,565, Not Graduate,Approved
+1121,yes,9800000,430, Graduate,Rejected
+2290,yes,4500000,773, Not Graduate,Approved
+4195,yes,2100000,651, Not Graduate,Approved
+2249,yes,6200000,539, Graduate,Rejected
+1610,yes,9800000,416, Not Graduate,Rejected
+1032,yes,1300000,679, Not Graduate,Approved
+1271,yes,3500000,898, Not Graduate,Approved
+3316,yes,600000,495, Graduate,Rejected
+3286,yes,9400000,592, Not Graduate,Approved
+4004,yes,5000000,611, Graduate,Approved
+3460,yes,5200000,711, Not Graduate,Approved
+2308,yes,6700000,843, Not Graduate,Approved
+1597,yes,8100000,522, Not Graduate,Rejected
+240,yes,3400000,479, Graduate,Rejected
+2947,yes,3800000,649, Graduate,Approved
+1502,yes,8600000,498, Graduate,Rejected
+3772,yes,2700000,434, Graduate,Rejected
+2180,yes,3200000,489, Graduate,Rejected
+3214,yes,4300000,792, Not Graduate,Rejected
+1668,yes,2400000,626, Graduate,Approved
+246,yes,8000000,725, Not Graduate,Approved
+1317,yes,6100000,761, Graduate,Approved
+3692,yes,2400000,725, Graduate,Approved
+4192,yes,9900000,385, Graduate,Rejected
+1277,yes,3000000,459, Graduate,Rejected
+720,yes,4000000,323, Not Graduate,Rejected
+526,yes,6900000,599, Graduate,Approved
+1316,yes,4100000,521, Not Graduate,Rejected
+1870,yes,3900000,340, Graduate,Rejected
+1649,yes,1300000,610, Not Graduate,Approved
+1744,yes,2600000,471, Graduate,Rejected
+106,yes,4200000,841, Not Graduate,Approved
+2726,yes,7700000,420, Not Graduate,Rejected
+3813,yes,3700000,748, Not Graduate,Approved
+1999,yes,9200000,517, Graduate,Rejected
+1766,yes,3600000,841, Not Graduate,Approved
+1569,yes,4800000,390, Not Graduate,Rejected
+2453,yes,7500000,678, Not Graduate,Approved
+2262,yes,5300000,508, Not Graduate,Rejected
+9,yes,800000,782, Graduate,Approved
+3986,yes,8800000,631, Not Graduate,Approved
+2021,yes,5300000,547, Graduate,Rejected
+3716,yes,8300000,355, Not Graduate,Rejected
+3842,yes,1700000,587, Graduate,Approved
+519,yes,2900000,607, Graduate,Approved
+3508,yes,9600000,788, Not Graduate,Approved
+1231,yes,7600000,447, Not Graduate,Rejected
+889,yes,9200000,662, Not Graduate,Approved
+2020,yes,3300000,465, Not Graduate,Rejected
+2171,yes,3600000,590, Graduate,Approved
+1684,yes,6100000,379, Not Graduate,Rejected
+4019,yes,9700000,784, Graduate,Approved
+591,yes,3900000,439, Graduate,Rejected
+2714,yes,4000000,571, Not Graduate,Approved
+3487,yes,2700000,744, Graduate,Approved
+604,yes,5600000,528, Not Graduate,Rejected
+305,yes,9200000,656, Not Graduate,Approved
+2303,yes,9700000,434, Graduate,Rejected
+2446,yes,8600000,643, Graduate,Approved
+1159,yes,5700000,656, Graduate,Approved
+3406,yes,3400000,534, Graduate,Rejected
+3337,yes,9400000,505, Graduate,Rejected
+114,yes,7300000,879, Not Graduate,Approved
+3477,yes,9800000,743, Not Graduate,Approved
+1474,yes,400000,711, Graduate,Approved
+1674,yes,7600000,595, Graduate,Approved
+2731,yes,9900000,783, Graduate,Approved
+2242,yes,1100000,779, Not Graduate,Approved
+2333,yes,7700000,807, Graduate,Approved
+941,yes,7600000,522, Graduate,Rejected
+1955,yes,4900000,409, Not Graduate,Rejected
+1311,yes,4900000,513, Graduate,Rejected
+797,yes,5900000,431, Graduate,Rejected
+1031,yes,7900000,409, Graduate,Rejected
+623,yes,5300000,655, Graduate,Approved
+38,yes,8000000,348, Graduate,Rejected
+1389,yes,300000,353, Graduate,Rejected
+72,yes,5300000,386, Graduate,Approved
+1804,yes,5500000,309, Graduate,Approved
+3975,yes,500000,825, Graduate,Approved
+1662,yes,3100000,357, Not Graduate,Rejected
+4033,yes,7000000,689, Not Graduate,Approved
+814,yes,9700000,544, Not Graduate,Rejected
+1845,yes,8000000,607, Graduate,Approved
+1071,yes,2800000,531, Not Graduate,Rejected
+1540,yes,1500000,524, Not Graduate,Rejected
+3374,yes,9300000,600, Graduate,Approved
+4190,yes,8600000,785, Graduate,Approved
+2136,yes,6400000,759, Graduate,Approved
+2408,yes,900000,763, Graduate,Approved
+492,yes,1000000,834, Graduate,Approved
+2795,yes,5800000,720, Graduate,Approved
+2264,yes,8700000,346, Not Graduate,Rejected
+1590,yes,900000,464, Graduate,Rejected
+3882,yes,5500000,353, Graduate,Rejected
+982,yes,2600000,377, Not Graduate,Rejected
+321,yes,5900000,726, Graduate,Approved
+3283,yes,9800000,754, Not Graduate,Approved
+1931,yes,6200000,734, Graduate,Approved
+3335,yes,900000,367, Graduate,Rejected
+1722,yes,3100000,562, Not Graduate,Approved
+2618,yes,1400000,321, Not Graduate,Rejected
+1250,yes,3600000,333, Not Graduate,Rejected
+1391,yes,6100000,387, Not Graduate,Approved
+3498,yes,6000000,480, Not Graduate,Rejected
+1150,yes,3700000,363, Not Graduate,Rejected
+1144,yes,200000,569, Graduate,Approved
+3469,yes,4200000,583, Graduate,Approved
+34,yes,8400000,830, Not Graduate,Approved
+265,yes,3800000,345, Graduate,Approved
+2684,yes,7800000,665, Graduate,Approved
+2563,yes,3700000,385, Not Graduate,Rejected
+4241,yes,400000,787, Graduate,Approved
+1859,yes,300000,752, Graduate,Approved
+1973,yes,8300000,673, Graduate,Approved
+506,yes,2000000,838, Graduate,Approved
+390,yes,6200000,873, Graduate,Approved
+2286,yes,8400000,796, Graduate,Approved
+2000,yes,3100000,895, Not Graduate,Approved
+1413,yes,6900000,577, Graduate,Approved
+3693,yes,8100000,438, Not Graduate,Rejected
+1222,yes,5100000,754, Graduate,Approved
+373,yes,600000,319, Graduate,Approved
+586,yes,1900000,699, Not Graduate,Approved
+998,yes,8500000,810, Not Graduate,Approved
+3783,yes,9500000,307, Graduate,Rejected
+3820,yes,3000000,644, Graduate,Approved
+3701,yes,2800000,349, Graduate,Rejected
+3942,yes,5300000,487, Not Graduate,Rejected
+3655,yes,300000,419, Not Graduate,Rejected
+3715,no,2900000,708, Graduate,Approved
+819,no,6500000,709, Not Graduate,Approved
+1467,no,4300000,619, Not Graduate,Approved
+1339,no,1400000,384, Graduate,Rejected
+3420,no,5100000,826, Not Graduate,Approved
+2004,no,6600000,747, Graduate,Approved
+3757,no,5100000,506, Not Graduate,Approved
+3414,no,6000000,826, Not Graduate,Approved
+4223,no,8700000,447, Not Graduate,Rejected
+2962,no,5600000,551, Not Graduate,Approved
+3605,no,700000,757, Graduate,Approved
+3013,no,7500000,347, Graduate,Rejected
+3945,no,8900000,552, Graduate,Approved
+1100,no,6700000,583, Graduate,Approved
+3523,no,2900000,658, Graduate,Approved
+122,no,800000,317, Graduate,Rejected
+356,no,7600000,721, Not Graduate,Approved
+1170,no,1400000,384, Graduate,Rejected
+537,no,3700000,633, Not Graduate,Approved
+2167,no,5100000,655, Graduate,Approved
+1428,no,6200000,583, Not Graduate,Approved
+666,no,5900000,375, Not Graduate,Rejected
+4200,no,600000,811, Not Graduate,Approved
+2970,no,4500000,439, Graduate,Rejected
+3758,no,2800000,431, Graduate,Rejected
+386,no,3200000,833, Not Graduate,Approved
+617,no,4500000,766, Not Graduate,Approved
+1812,no,2500000,471, Not Graduate,Rejected
+3276,no,9100000,578, Graduate,Approved
+4168,no,9700000,607, Graduate,Approved
+3547,no,2700000,848, Not Graduate,Approved
+1704,no,5400000,423, Graduate,Rejected
+636,no,5300000,881, Not Graduate,Approved
+969,no,8300000,662, Graduate,Approved
+3794,no,8300000,667, Not Graduate,Approved
+1149,no,7300000,729, Graduate,Approved
+3876,no,1600000,663, Graduate,Approved
+571,no,2300000,453, Graduate,Rejected
+1656,no,6900000,814, Not Graduate,Approved
+1513,no,9600000,421, Not Graduate,Rejected
+4016,no,1000000,701, Graduate,Approved
+207,no,9800000,768, Graduate,Approved
+1631,no,7600000,515, Not Graduate,Rejected
+126,no,200000,821, Graduate,Approved
+3556,no,3200000,635, Graduate,Approved
+3724,no,3500000,350, Not Graduate,Approved
+3750,no,7900000,845, Not Graduate,Approved
+2664,no,4300000,871, Graduate,Approved
+2572,no,8100000,686, Not Graduate,Approved
+4236,no,3000000,691, Not Graduate,Approved
+4256,no,4800000,441, Graduate,Rejected
+3390,no,4300000,397, Not Graduate,Rejected
+3494,no,3800000,727, Not Graduate,Approved
+3308,no,800000,770, Graduate,Approved
+3307,no,300000,396, Not Graduate,Rejected
+3687,no,6700000,672, Not Graduate,Approved
+1489,no,2800000,525, Graduate,Rejected
+3451,no,700000,728, Graduate,Approved
+4046,no,1100000,737, Graduate,Approved
+825,no,5700000,742, Not Graduate,Approved
+2476,no,6400000,667, Graduate,Approved
+2056,no,4700000,515, Graduate,Rejected
+4186,no,3500000,655, Not Graduate,Approved
+895,no,5900000,806, Graduate,Approved
+57,no,4300000,431, Not Graduate,Rejected
+413,no,4900000,880, Not Graduate,Approved
+495,no,2300000,329, Not Graduate,Rejected
+4142,no,5100000,457, Graduate,Rejected
+4012,no,6900000,694, Not Graduate,Approved
+2845,no,8900000,807, Graduate,Approved
+2315,no,7200000,632, Graduate,Approved
+2790,no,6600000,759, Graduate,Approved
+3612,no,4800000,774, Graduate,Approved
+771,no,4000000,635, Graduate,Approved
+2931,no,8700000,360, Not Graduate,Rejected
+2608,no,5400000,786, Not Graduate,Approved
+94,no,1700000,452, Graduate,Rejected
+456,no,6000000,608, Not Graduate,Approved
+1074,no,2700000,584, Graduate,Approved
+1052,no,1900000,782, Graduate,Approved
+1493,no,5700000,512, Not Graduate,Approved
+2239,no,6000000,623, Not Graduate,Approved
+579,no,6800000,578, Graduate,Approved
+2888,no,4700000,786, Graduate,Approved
+3953,no,1300000,795, Not Graduate,Approved
+1293,no,8000000,683, Graduate,Approved
+2410,no,7700000,642, Graduate,Approved
+3989,no,6900000,809, Graduate,Approved
+1303,no,7700000,483, Not Graduate,Rejected
+1749,no,4200000,407, Graduate,Rejected
+2462,no,6500000,779, Graduate,Approved
+2583,no,6800000,730, Graduate,Approved
+481,no,8300000,381, Not Graduate,Rejected
+2347,no,8000000,890, Graduate,Approved
+478,no,8000000,504, Graduate,Rejected
+203,no,500000,888, Graduate,Approved
+3249,no,5400000,625, Graduate,Approved
+2642,no,6300000,849, Graduate,Approved
+2010,no,700000,874, Graduate,Approved
+3707,no,2500000,671, Not Graduate,Approved
+3232,no,1500000,687, Graduate,Approved
+1113,no,1600000,721, Graduate,Approved
+2755,no,6800000,556, Graduate,Approved
+1213,no,1300000,657, Graduate,Approved
+2626,no,7900000,402, Graduate,Rejected
+3087,no,2500000,356, Graduate,Rejected
+3877,no,1600000,729, Not Graduate,Approved
+2705,no,4900000,613, Not Graduate,Approved
+976,no,8000000,305, Graduate,Rejected
+599,no,3400000,703, Graduate,Approved
+988,no,9400000,625, Graduate,Approved
+3368,no,2900000,835, Not Graduate,Approved
+3996,no,9300000,741, Not Graduate,Approved
+868,no,5100000,306, Not Graduate,Rejected
+4074,no,900000,560, Graduate,Approved
+3875,no,2900000,326, Graduate,Rejected
+252,no,2600000,852, Graduate,Approved
+1472,no,6600000,467, Not Graduate,Rejected
+3133,no,3100000,504, Graduate,Rejected
+2801,no,5200000,794, Graduate,Approved
+3423,no,8100000,884, Not Graduate,Approved
+852,no,4900000,612, Not Graduate,Approved
+1133,no,3500000,355, Not Graduate,Approved
+185,no,1400000,575, Graduate,Approved
+4066,no,1400000,697, Graduate,Approved
+2889,no,6800000,300, Graduate,Rejected
+1112,no,1400000,686, Graduate,Approved
+226,no,5200000,434, Not Graduate,Rejected
+685,no,1000000,551, Not Graduate,Approved
+608,no,6000000,385, Not Graduate,Rejected
+2163,no,3400000,385, Not Graduate,Rejected
+100,no,4400000,463, Graduate,Rejected
+1268,no,4700000,755, Graduate,Approved
+2215,no,1800000,348, Graduate,Rejected
+2811,no,7000000,640, Graduate,Approved
+2355,no,6300000,469, Graduate,Rejected
+1976,no,4700000,710, Not Graduate,Approved
+2287,no,7100000,824, Graduate,Approved
+414,no,4100000,608, Graduate,Approved
+1767,no,7500000,815, Not Graduate,Approved
+460,no,3200000,457, Graduate,Rejected
+3683,no,9300000,586, Not Graduate,Approved
+618,no,5400000,522, Not Graduate,Rejected
+620,no,8900000,588, Graduate,Approved
+2235,no,4100000,546, Not Graduate,Rejected
+2173,no,600000,425, Graduate,Rejected
+3637,no,6600000,497, Graduate,Rejected
+1629,no,4200000,545, Not Graduate,Rejected
+3264,no,9000000,638, Not Graduate,Approved
+502,no,4700000,375, Graduate,Rejected
+2137,no,7100000,699, Graduate,Approved
+1180,no,9900000,392, Graduate,Rejected
+2332,no,7900000,601, Graduate,Approved
+1075,no,6800000,501, Graduate,Approved
+653,no,8000000,421, Graduate,Approved
+2576,no,3600000,408, Graduate,Rejected
+125,no,7000000,719, Graduate,Approved
+1463,no,1600000,657, Not Graduate,Approved
+2776,no,4900000,659, Graduate,Approved
+1235,no,6900000,699, Not Graduate,Approved
+635,no,8400000,476, Not Graduate,Rejected
+2865,no,3600000,427, Not Graduate,Rejected
+2848,no,5200000,687, Graduate,Approved
+2486,no,5700000,630, Not Graduate,Approved
+1172,no,5300000,802, Graduate,Approved
+3256,no,2200000,833, Not Graduate,Approved
+1109,no,8100000,375, Graduate,Rejected
+3539,no,6900000,857, Graduate,Approved
+3120,no,9800000,592, Not Graduate,Approved
+2643,no,1900000,592, Not Graduate,Approved
+4196,no,7100000,727, Graduate,Approved
+3542,no,8800000,668, Not Graduate,Approved
+3180,no,5700000,697, Not Graduate,Approved
+3446,no,6600000,841, Graduate,Approved
+1128,no,9600000,544, Graduate,Rejected
+2699,no,4200000,526, Not Graduate,Rejected
+3067,no,9200000,742, Not Graduate,Approved
+3554,no,1800000,548, Graduate,Approved
+747,no,2600000,861, Not Graduate,Approved
+1728,no,3900000,786, Graduate,Approved
+1848,no,4600000,805, Graduate,Approved
+1158,no,1300000,624, Not Graduate,Approved
+517,no,7300000,552, Graduate,Approved
+243,no,5700000,807, Graduate,Approved
+1010,no,8900000,617, Graduate,Approved
+963,no,5500000,742, Not Graduate,Approved
+3207,no,6500000,554, Not Graduate,Approved
+3344,no,3100000,622, Graduate,Approved
+4119,no,2200000,596, Graduate,Approved
+1162,no,8100000,378, Graduate,Rejected
+709,no,8900000,531, Graduate,Rejected
+119,no,7200000,379, Not Graduate,Rejected
+1240,no,4200000,840, Not Graduate,Approved
+2559,no,5800000,719, Not Graduate,Approved
+1260,no,1800000,777, Graduate,Approved
+1034,no,600000,752, Graduate,Approved
+3580,no,8900000,519, Not Graduate,Rejected
+2346,no,4100000,440, Graduate,Rejected
+1833,no,8400000,371, Not Graduate,Rejected
+1160,no,7700000,758, Not Graduate,Approved
+1611,no,2100000,705, Graduate,Approved
+3209,no,4600000,406, Graduate,Rejected
+1091,no,9400000,898, Graduate,Approved
+2316,no,2000000,337, Not Graduate,Rejected
+1197,no,2200000,667, Not Graduate,Approved
+2849,no,7400000,835, Graduate,Approved
+4013,no,700000,663, Not Graduate,Approved
+3610,no,1100000,887, Not Graduate,Approved
+1425,no,8500000,336, Graduate,Rejected
+1055,no,6500000,419, Not Graduate,Rejected
+1372,no,6000000,709, Not Graduate,Approved
+2365,no,6600000,834, Not Graduate,Approved
+3228,no,2500000,590, Not Graduate,Approved
+1816,no,5100000,350, Graduate,Rejected
+3920,no,4900000,328, Not Graduate,Rejected
+4107,no,7600000,580, Not Graduate,Approved
+179,no,5600000,869, Not Graduate,Approved
+4049,no,7400000,834, Not Graduate,Approved
+955,no,2200000,563, Not Graduate,Approved
+1630,no,4200000,654, Not Graduate,Approved
+1920,no,900000,547, Not Graduate,Rejected
+362,no,4400000,349, Graduate,Approved
+3127,no,900000,590, Graduate,Approved
+3825,no,1000000,715, Graduate,Approved
+1826,no,8100000,606, Not Graduate,Approved
+2141,no,4800000,860, Not Graduate,Approved
+3943,no,7600000,743, Graduate,Approved
+2638,no,5100000,867, Not Graduate,Approved
+2844,no,500000,464, Not Graduate,Rejected
+3902,no,2300000,529, Graduate,Rejected
+857,no,2200000,417, Not Graduate,Rejected
+3375,no,7500000,790, Graduate,Approved
+411,no,7100000,360, Graduate,Rejected
+1155,no,600000,627, Graduate,Approved
+2094,no,4600000,520, Not Graduate,Rejected
+909,no,3500000,333, Not Graduate,Rejected
+4141,no,7100000,857, Graduate,Approved
+3009,no,7100000,430, Not Graduate,Rejected
+1682,no,7800000,500, Not Graduate,Rejected
+1227,no,6500000,373, Not Graduate,Rejected
+1553,no,7000000,541, Not Graduate,Rejected
+3990,no,2400000,531, Not Graduate,Rejected
+435,no,8800000,699, Graduate,Approved
+263,no,9200000,523, Graduate,Rejected
+2219,no,4300000,482, Not Graduate,Rejected
+184,no,7500000,824, Not Graduate,Approved
+476,no,2400000,665, Not Graduate,Approved
+1396,no,4700000,492, Graduate,Rejected
+3800,no,7900000,534, Graduate,Rejected
+726,no,5000000,755, Not Graduate,Approved
+3889,no,9100000,792, Not Graduate,Approved
+944,no,1400000,829, Graduate,Approved
+1351,no,4000000,496, Graduate,Rejected
+4029,no,3000000,478, Graduate,Rejected
+734,no,500000,556, Graduate,Approved
+3874,no,6400000,489, Not Graduate,Rejected
+1500,no,9800000,788, Not Graduate,Approved
+27,no,8200000,696, Graduate,Approved
+881,no,1100000,482, Graduate,Rejected
+4002,no,9200000,527, Not Graduate,Rejected
+1078,no,5900000,386, Graduate,Rejected
+3091,no,5700000,412, Graduate,Rejected
+721,no,1800000,670, Graduate,Approved
+1295,no,3900000,530, Not Graduate,Rejected
+2973,no,4900000,492, Graduate,Rejected
+1964,no,8400000,785, Graduate,Approved
+2300,no,900000,337, Not Graduate,Rejected
+878,no,5200000,698, Graduate,Approved
+3541,no,7900000,551, Graduate,Approved
+1658,no,3900000,674, Not Graduate,Approved
+3787,no,4900000,802, Not Graduate,Approved
+4050,no,8700000,397, Graduate,Rejected
+1803,no,6000000,639, Not Graduate,Approved
+1865,no,5600000,558, Not Graduate,Approved
+3106,no,1300000,372, Graduate,Rejected
+1785,no,7900000,394, Not Graduate,Approved
+3833,no,8000000,791, Not Graduate,Approved
+1947,no,8400000,328, Graduate,Rejected
+2110,no,9100000,652, Not Graduate,Approved
+228,no,7200000,774, Graduate,Approved
+3210,no,700000,650, Graduate,Approved
+2190,no,5800000,354, Graduate,Rejected
+2972,no,6300000,872, Not Graduate,Approved
+4053,no,1200000,323, Not Graduate,Rejected
+4028,no,9100000,353, Not Graduate,Rejected
+2752,no,8800000,696, Graduate,Approved
+213,no,8500000,471, Not Graduate,Rejected
+3243,no,2100000,379, Graduate,Rejected
+870,no,6600000,455, Graduate,Approved
+965,no,2700000,691, Graduate,Approved
+2601,no,300000,492, Graduate,Rejected
+3730,no,8800000,692, Not Graduate,Approved
+1438,no,2800000,676, Graduate,Approved
+2228,no,5200000,531, Not Graduate,Rejected
+1627,no,2900000,409, Not Graduate,Rejected
+1954,no,4600000,593, Not Graduate,Approved
+748,no,3000000,409, Not Graduate,Rejected
+3250,no,4200000,771, Graduate,Approved
+2816,no,6600000,500, Graduate,Approved
+919,no,6300000,543, Graduate,Rejected
+3252,no,1200000,564, Graduate,Approved
+3014,no,2400000,539, Not Graduate,Rejected
+3778,no,5800000,673, Not Graduate,Approved
+2702,no,6300000,774, Not Graduate,Approved
+1843,no,2100000,402, Not Graduate,Rejected
+849,no,2600000,506, Graduate,Rejected
+1067,no,6800000,819, Graduate,Approved
+2430,no,9600000,418, Graduate,Rejected
+3898,no,3900000,683, Not Graduate,Approved
+2713,no,9500000,564, Not Graduate,Approved
+2222,no,500000,857, Not Graduate,Approved
+3911,no,1700000,537, Graduate,Rejected
+2916,no,8400000,492, Graduate,Rejected
+3684,no,6700000,555, Not Graduate,Approved
+2073,no,300000,885, Graduate,Approved
+4036,no,7300000,599, Not Graduate,Approved
+3927,no,4900000,653, Graduate,Approved
+661,no,1600000,710, Not Graduate,Approved
+3681,no,2700000,815, Not Graduate,Approved
+2465,no,1500000,507, Not Graduate,Rejected
+115,no,8400000,437, Not Graduate,Rejected
+1011,no,5600000,460, Graduate,Rejected
+1888,no,9500000,650, Graduate,Approved
+2398,no,200000,730, Not Graduate,Approved
+1881,no,3700000,301, Not Graduate,Rejected
+3968,no,3000000,588, Graduate,Approved
+3714,no,8600000,895, Not Graduate,Approved
+2986,no,6400000,628, Graduate,Approved
+3318,no,900000,415, Not Graduate,Rejected
+2532,no,5700000,871, Graduate,Approved
+2862,no,6300000,425, Not Graduate,Rejected
+858,no,6800000,781, Not Graduate,Approved
+3455,no,1000000,896, Graduate,Approved
+3356,no,5500000,882, Not Graduate,Approved
+2589,no,4700000,559, Not Graduate,Approved
+1023,no,8800000,836, Graduate,Approved
+46,no,8000000,331, Graduate,Rejected
+1367,no,9000000,496, Not Graduate,Rejected
+389,no,4300000,302, Not Graduate,Rejected
+92,no,8800000,540, Graduate,Rejected
+341,no,6800000,341, Not Graduate,Rejected
+3900,no,900000,803, Graduate,Approved
+4126,no,9200000,455, Graduate,Rejected
+2443,no,7100000,592, Graduate,Approved
+1898,no,1600000,529, Graduate,Rejected
+2431,no,5600000,865, Graduate,Approved
+4008,no,3700000,794, Graduate,Approved
+862,no,7600000,810, Not Graduate,Approved
+128,no,5100000,395, Not Graduate,Rejected
+2763,no,1900000,805, Not Graduate,Approved
+3703,no,2200000,633, Graduate,Approved
+773,no,9500000,856, Not Graduate,Approved
+2787,no,4000000,723, Graduate,Approved
+838,no,4100000,399, Not Graduate,Rejected
+2161,no,5300000,753, Not Graduate,Approved
+1739,no,7600000,888, Not Graduate,Approved
+2185,no,3300000,504, Not Graduate,Rejected
+2570,no,5000000,345, Not Graduate,Rejected
+1703,no,6100000,849, Graduate,Approved
+2043,no,8400000,604, Not Graduate,Approved
+3474,no,3600000,546, Graduate,Rejected
+522,no,8300000,823, Not Graduate,Approved
+987,no,700000,330, Not Graduate,Rejected
+1217,no,400000,766, Graduate,Approved
+772,no,8700000,365, Not Graduate,Rejected
+2843,no,3500000,524, Not Graduate,Approved
+2361,no,2200000,409, Not Graduate,Rejected
+42,no,9100000,822, Not Graduate,Approved
+3160,no,8400000,599, Graduate,Approved
+2153,no,3500000,609, Graduate,Approved
+2373,no,8100000,778, Graduate,Approved
+1060,no,4300000,469, Graduate,Rejected
+3979,no,8700000,897, Not Graduate,Approved
+3782,no,600000,443, Graduate,Rejected
+4216,no,8300000,350, Graduate,Rejected
+1921,no,500000,809, Not Graduate,Approved
+2909,no,5700000,340, Not Graduate,Rejected
+2907,no,7500000,392, Graduate,Approved
+1539,no,4400000,712, Graduate,Approved
+2023,no,9000000,670, Not Graduate,Approved
+3023,no,5500000,580, Not Graduate,Approved
+781,no,1600000,784, Not Graduate,Approved
+758,no,1400000,393, Graduate,Rejected
+562,no,5200000,761, Graduate,Approved
+1552,no,2900000,367, Graduate,Rejected
+1885,no,4700000,516, Graduate,Approved
+3190,no,1400000,787, Not Graduate,Approved
+3652,no,800000,453, Not Graduate,Rejected
+3748,no,2300000,343, Not Graduate,Rejected
+51,no,7300000,502, Graduate,Rejected
+2830,no,6500000,713, Not Graduate,Approved
+142,no,3600000,894, Not Graduate,Approved
+745,no,8000000,549, Not Graduate,Rejected
+1997,no,8100000,740, Not Graduate,Approved
+66,no,4100000,364, Graduate,Rejected
+1332,no,9600000,888, Graduate,Approved
+3803,no,9000000,602, Graduate,Approved
+1858,no,2900000,478, Graduate,Rejected
+1609,no,5500000,582, Not Graduate,Approved
+1405,no,6100000,300, Graduate,Rejected
+1272,no,500000,527, Not Graduate,Rejected
+316,no,4400000,499, Graduate,Approved
+400,no,7100000,610, Not Graduate,Approved
+2974,no,4800000,618, Graduate,Approved
+2002,no,3900000,527, Not Graduate,Rejected
+2256,no,8900000,380, Not Graduate,Rejected
+3350,no,4700000,597, Not Graduate,Approved
+633,no,6500000,342, Not Graduate,Rejected
+4111,no,3200000,866, Graduate,Approved
+2452,no,3200000,838, Not Graduate,Approved
+4231,no,3700000,820, Not Graduate,Approved
+380,no,500000,531, Not Graduate,Approved
+3389,no,6000000,387, Not Graduate,Rejected
+3089,no,5000000,459, Not Graduate,Rejected
+3777,no,7800000,313, Graduate,Approved
+4061,no,5800000,434, Not Graduate,Rejected
+2103,no,7900000,771, Not Graduate,Approved
+2898,no,6600000,861, Not Graduate,Approved
+3072,no,9400000,649, Graduate,Approved
+432,no,1100000,562, Graduate,Approved
+4209,no,8300000,848, Graduate,Approved
+4188,no,4100000,367, Not Graduate,Rejected
+722,no,5600000,609, Not Graduate,Approved
+3696,no,2500000,835, Not Graduate,Approved
+2063,no,9200000,522, Graduate,Rejected
+1511,no,3200000,828, Not Graduate,Approved
+1329,no,7000000,318, Graduate,Rejected
+3043,no,6100000,492, Not Graduate,Rejected
+1849,no,4600000,709, Graduate,Approved
+108,no,2700000,591, Graduate,Approved
+827,no,1600000,707, Graduate,Approved
+3607,no,1800000,415, Graduate,Approved
+898,no,3700000,668, Graduate,Approved
+891,no,4900000,321, Not Graduate,Rejected
+132,no,8800000,357, Graduate,Rejected
+2128,no,3400000,567, Graduate,Approved
+2217,no,1400000,880, Graduate,Approved
+315,no,9800000,778, Not Graduate,Approved
+1369,no,6800000,783, Not Graduate,Approved
+1125,no,5500000,887, Not Graduate,Approved
+3854,no,8300000,858, Graduate,Approved
+2101,no,4500000,533, Not Graduate,Rejected
+3956,no,6000000,533, Graduate,Rejected
+3172,no,8400000,674, Graduate,Approved
+2432,no,7800000,703, Graduate,Approved
+2906,no,1100000,473, Graduate,Rejected
+1411,no,9500000,451, Not Graduate,Rejected
+1616,no,1200000,431, Graduate,Rejected
+84,no,3600000,613, Graduate,Approved
+2164,no,6700000,749, Not Graduate,Approved
+2635,no,5300000,802, Graduate,Approved
+3119,no,5800000,532, Not Graduate,Rejected
+613,no,7200000,380, Graduate,Rejected
+3061,no,1900000,832, Not Graduate,Approved
+137,no,4600000,786, Not Graduate,Approved
+402,no,3700000,339, Graduate,Rejected
+3175,no,7600000,510, Not Graduate,Rejected
+958,no,2200000,613, Graduate,Approved
+3679,no,1200000,438, Not Graduate,Rejected
+831,no,7300000,811, Graduate,Approved
+3169,no,2400000,357, Not Graduate,Rejected
+1541,no,6200000,838, Not Graduate,Approved
+875,no,5400000,622, Graduate,Approved
+3751,no,2000000,696, Graduate,Approved
+1289,no,5900000,307, Not Graduate,Approved
+790,no,3100000,544, Graduate,Rejected
+3649,no,6500000,812, Graduate,Approved
+3348,no,9700000,601, Not Graduate,Approved
+59,no,7400000,421, Graduate,Rejected
+3195,no,5000000,726, Not Graduate,Approved
+3369,no,7100000,850, Graduate,Approved
+967,no,4400000,324, Graduate,Rejected
+2512,no,7300000,358, Graduate,Rejected
+2109,no,6900000,496, Graduate,Rejected
+4093,no,700000,759, Graduate,Approved
+4088,no,6900000,686, Not Graduate,Approved
+2117,no,4500000,404, Graduate,Rejected
+3458,no,8600000,867, Not Graduate,Approved
+3497,no,5000000,315, Not Graduate,Rejected
+2960,no,9000000,646, Graduate,Approved
+3492,no,8100000,674, Not Graduate,Approved
+3516,no,7900000,681, Graduate,Approved
+712,no,9200000,383, Graduate,Rejected
+82,no,8800000,826, Not Graduate,Approved
+3237,no,1200000,709, Graduate,Approved
+4263,no,1300000,540, Graduate,Rejected
+329,no,1100000,716, Graduate,Approved
+630,no,9100000,419, Graduate,Rejected
+1090,no,5100000,336, Graduate,Rejected
+4102,no,400000,685, Graduate,Approved
+723,no,6800000,349, Not Graduate,Rejected
+167,no,5800000,656, Not Graduate,Approved
+2159,no,2500000,684, Graduate,Approved
+3176,no,8500000,698, Graduate,Approved
+1612,no,1800000,306, Graduate,Rejected
+2747,no,2600000,682, Not Graduate,Approved
+543,no,3600000,376, Not Graduate,Rejected
+3925,no,3200000,656, Not Graduate,Approved
+4245,no,1800000,860, Not Graduate,Approved
+3185,no,6400000,745, Not Graduate,Approved
+3801,no,4600000,396, Not Graduate,Rejected
+3278,no,7800000,751, Not Graduate,Approved
+725,no,4200000,391, Not Graduate,Rejected
+2390,no,7800000,394, Graduate,Rejected
+2359,no,7600000,781, Graduate,Approved
+2663,no,4200000,375, Graduate,Rejected
+357,no,3700000,563, Not Graduate,Approved
+2682,no,1500000,885, Not Graduate,Approved
+1214,no,2400000,682, Not Graduate,Approved
+3970,no,8300000,348, Not Graduate,Rejected
+3135,no,1800000,422, Not Graduate,Approved
+621,no,5000000,570, Graduate,Approved
+3473,no,5100000,410, Graduate,Rejected
+1720,no,8400000,519, Graduate,Rejected
+648,no,3000000,620, Graduate,Approved
+3057,no,6300000,590, Graduate,Approved
+903,no,4800000,812, Not Graduate,Approved
+343,no,8000000,431, Graduate,Approved
+1185,no,8800000,637, Not Graduate,Approved
+1675,no,9800000,356, Not Graduate,Rejected
+3952,no,2800000,615, Not Graduate,Approved
+241,no,9600000,851, Graduate,Approved
+2087,no,8000000,608, Not Graduate,Approved
+793,no,6300000,504, Graduate,Rejected
+1559,no,300000,819, Not Graduate,Approved
+77,no,5700000,697, Graduate,Approved
+915,no,700000,806, Graduate,Approved
+3543,no,6500000,672, Graduate,Approved
+1189,no,6900000,828, Not Graduate,Approved
+683,no,5200000,721, Not Graduate,Approved
+384,no,2300000,682, Not Graduate,Approved
+663,no,5300000,348, Not Graduate,Rejected
+551,no,3100000,420, Not Graduate,Rejected
+3984,no,7500000,535, Graduate,Rejected
+3905,no,2600000,349, Graduate,Rejected
+1296,no,1600000,844, Graduate,Approved
+2730,no,8500000,405, Not Graduate,Rejected
+3171,no,9600000,368, Not Graduate,Rejected
+1152,no,7200000,421, Graduate,Rejected
+3225,no,6500000,444, Graduate,Rejected
+2106,no,5600000,544, Not Graduate,Rejected
+3576,no,7400000,677, Not Graduate,Approved
+4121,no,9100000,711, Graduate,Approved
+2969,no,9700000,649, Graduate,Approved
+4248,no,3100000,820, Not Graduate,Approved
+3526,no,2600000,849, Not Graduate,Approved
+1521,no,1400000,649, Graduate,Approved
+4205,no,1100000,615, Graduate,Approved
+3814,no,3600000,320, Graduate,Approved
+2060,no,8200000,425, Graduate,Rejected
+2957,no,3600000,654, Not Graduate,Approved
+1551,no,3200000,502, Not Graduate,Rejected
+1982,no,3900000,544, Not Graduate,Rejected
+1122,no,200000,615, Not Graduate,Approved
+2380,no,7300000,751, Graduate,Approved
+1670,no,3200000,802, Graduate,Approved
+742,no,6900000,828, Not Graduate,Approved
+1202,no,3900000,728, Graduate,Approved
+2257,no,8000000,565, Graduate,Approved
+3007,no,9300000,629, Graduate,Approved
+3168,no,5500000,382, Graduate,Approved
+3251,no,7500000,695, Not Graduate,Approved
+3036,no,1100000,858, Not Graduate,Approved
+1418,no,400000,447, Not Graduate,Rejected
+1134,no,4800000,605, Graduate,Approved
+1989,no,7000000,837, Not Graduate,Approved
+655,no,9200000,607, Graduate,Approved
+1738,no,6600000,885, Graduate,Approved
+1835,no,4700000,411, Graduate,Rejected
+3934,no,9800000,606, Not Graduate,Approved
+1996,no,2900000,744, Not Graduate,Approved
+2204,no,7600000,545, Graduate,Rejected
+710,no,7000000,631, Not Graduate,Approved
+801,no,3100000,665, Graduate,Approved
+3212,no,1200000,872, Graduate,Approved
+611,no,8100000,449, Graduate,Rejected
+3627,no,6900000,360, Not Graduate,Rejected
+1962,no,5300000,821, Not Graduate,Approved
+2864,no,700000,705, Not Graduate,Approved
+272,no,9400000,870, Graduate,Approved
+2704,no,6500000,862, Not Graduate,Approved
+4,no,8200000,467, Graduate,Rejected
+1142,no,2900000,395, Graduate,Rejected
+3206,no,4700000,626, Graduate,Approved
+702,no,2200000,509, Graduate,Rejected
+1515,no,4700000,393, Graduate,Rejected
+549,no,1900000,647, Not Graduate,Approved
+762,no,4600000,758, Graduate,Approved
+3058,no,6100000,510, Not Graduate,Rejected
+879,no,4400000,302, Not Graduate,Rejected
+565,no,2000000,407, Graduate,Approved
+488,no,6300000,608, Not Graduate,Approved
+3217,no,3900000,837, Not Graduate,Approved
+1266,no,8100000,744, Graduate,Approved
+2920,no,8900000,709, Not Graduate,Approved
+1965,no,3800000,694, Graduate,Approved
+833,no,6200000,880, Graduate,Approved
+569,no,4500000,895, Not Graduate,Approved
+2987,no,3100000,865, Graduate,Approved
+501,no,200000,851, Graduate,Approved
+830,no,8800000,706, Graduate,Approved
+3835,no,4500000,726, Graduate,Approved
+2937,no,6800000,658, Not Graduate,Approved
+641,no,4600000,716, Graduate,Approved
+3161,no,1600000,319, Graduate,Approved
+1543,no,7700000,759, Not Graduate,Approved
+856,no,7000000,475, Graduate,Rejected
+4146,no,3100000,391, Graduate,Rejected
+3257,no,4000000,515, Graduate,Rejected
+1834,no,7700000,509, Graduate,Rejected
+3924,no,6700000,598, Not Graduate,Approved
+1815,no,6000000,376, Not Graduate,Rejected
+2270,no,9200000,521, Not Graduate,Rejected
+1394,no,8700000,751, Not Graduate,Approved
+1049,no,9800000,612, Graduate,Approved
+1350,no,1700000,422, Not Graduate,Rejected
+1549,no,700000,784, Graduate,Approved
+354,no,3000000,781, Graduate,Approved
+334,no,1800000,466, Not Graduate,Rejected
+1346,no,1200000,717, Graduate,Approved
+3197,no,1400000,685, Graduate,Approved
+360,no,2900000,885, Not Graduate,Approved
+1237,no,300000,702, Graduate,Approved
+3695,no,1400000,592, Graduate,Approved
+309,no,9600000,452, Graduate,Rejected
+1523,no,3400000,705, Graduate,Approved
+567,no,2800000,895, Not Graduate,Approved
+1218,no,5900000,469, Graduate,Rejected
+3640,no,7400000,779, Graduate,Approved
+2268,no,6100000,662, Not Graduate,Approved
+2127,no,5600000,596, Graduate,Approved
+751,no,1500000,584, Graduate,Approved
+439,no,6500000,891, Not Graduate,Approved
+1177,no,7900000,803, Graduate,Approved
+2233,no,6100000,799, Not Graduate,Approved
+1717,no,2500000,495, Graduate,Rejected
+3849,no,7600000,564, Graduate,Approved
+1029,no,5800000,414, Graduate,Rejected
+1461,no,4100000,891, Graduate,Approved
+687,no,3000000,361, Graduate,Rejected
+1689,no,6300000,612, Graduate,Approved
+2574,no,5600000,656, Not Graduate,Approved
+4132,no,1000000,614, Graduate,Approved
+1454,no,4100000,390, Not Graduate,Rejected
+32,no,5700000,363, Graduate,Rejected
+3417,no,5700000,333, Not Graduate,Rejected
+2343,no,2000000,302, Not Graduate,Rejected
+3431,no,3700000,819, Not Graduate,Approved
+4023,no,4300000,512, Not Graduate,Rejected
+1132,no,9900000,566, Not Graduate,Approved
+3301,no,1900000,595, Not Graduate,Approved
+3151,no,2100000,703, Graduate,Approved
+924,no,3600000,566, Not Graduate,Approved
+1878,no,4800000,795, Graduate,Approved
+393,no,2900000,648, Not Graduate,Approved
+2800,no,7500000,520, Graduate,Rejected
+2799,no,3600000,300, Graduate,Approved
+3871,no,8100000,429, Not Graduate,Approved
+2918,no,1700000,602, Graduate,Approved
+2046,no,3200000,311, Graduate,Rejected
+1173,no,6500000,858, Graduate,Approved
+1761,no,4100000,441, Not Graduate,Rejected
+3137,no,7400000,317, Graduate,Rejected
+3173,no,9200000,335, Not Graduate,Rejected
+3255,no,7400000,391, Graduate,Rejected
+3357,no,5100000,392, Graduate,Rejected
+1359,no,4300000,606, Not Graduate,Approved
+81,no,3500000,470, Graduate,Rejected
+1924,no,300000,779, Graduate,Approved
+570,no,1900000,826, Graduate,Approved
+2412,no,3000000,886, Not Graduate,Approved
+190,no,7400000,458, Not Graduate,Rejected
+3601,no,5400000,349, Graduate,Rejected
+1764,no,2000000,613, Graduate,Approved
+4183,no,400000,784, Not Graduate,Approved
+196,no,9200000,306, Graduate,Rejected
+1666,no,4100000,713, Graduate,Approved
+992,no,2300000,884, Not Graduate,Approved
+4250,no,1100000,887, Graduate,Approved
+2882,no,6400000,428, Not Graduate,Rejected
+3594,no,2200000,546, Graduate,Rejected
+3476,no,700000,344, Not Graduate,Rejected
+1969,no,1700000,761, Not Graduate,Approved
+2429,no,4200000,506, Graduate,Rejected
+4014,no,2500000,662, Graduate,Approved
+3760,no,8400000,588, Not Graduate,Approved
+3379,no,3800000,323, Not Graduate,Approved
+2590,no,6700000,791, Graduate,Approved
+130,no,400000,861, Graduate,Approved
+2146,no,3300000,829, Graduate,Approved
+2688,no,9600000,536, Not Graduate,Rejected
+2575,no,1800000,743, Graduate,Approved
+3066,no,2000000,502, Not Graduate,Rejected
+964,no,5000000,874, Graduate,Approved
+2351,no,3900000,360, Graduate,Rejected
+1009,no,7900000,726, Not Graduate,Approved
+3665,no,1900000,388, Not Graduate,Rejected
+1879,no,2600000,594, Graduate,Approved
+4261,no,8800000,560, Graduate,Approved
+2896,no,2500000,668, Graduate,Approved
+1607,no,900000,369, Graduate,Rejected
+2065,no,6100000,856, Graduate,Approved
+643,no,9300000,743, Not Graduate,Approved
+3296,no,3800000,390, Not Graduate,Rejected
+811,no,2600000,491, Not Graduate,Approved
+1841,no,4600000,785, Graduate,Approved
+3333,no,4400000,401, Graduate,Approved
+3385,no,1900000,749, Not Graduate,Approved
+3273,no,2800000,519, Graduate,Rejected
+638,no,6900000,406, Not Graduate,Approved
+446,no,700000,839, Not Graduate,Approved
+3802,no,1000000,892, Graduate,Approved
+2743,no,5100000,607, Not Graduate,Approved
+3982,no,2700000,832, Graduate,Approved
+3405,no,2800000,381, Not Graduate,Rejected
+2005,no,9900000,892, Not Graduate,Approved
+2766,no,2700000,413, Not Graduate,Rejected
+286,no,4700000,468, Not Graduate,Rejected
+3094,no,1400000,778, Not Graduate,Approved
+3488,no,6800000,690, Not Graduate,Approved
+3734,no,9400000,343, Graduate,Rejected
+1366,no,7600000,445, Not Graduate,Rejected
+1390,no,4600000,668, Not Graduate,Approved
+1988,no,4300000,594, Not Graduate,Approved
+2029,no,9500000,769, Not Graduate,Approved
+1139,no,2800000,415, Graduate,Rejected
+1115,no,2900000,523, Not Graduate,Rejected
+3101,no,2800000,860, Not Graduate,Approved
+1384,no,1700000,843, Not Graduate,Approved
+2529,no,2500000,437, Graduate,Rejected
+2674,no,6300000,742, Not Graduate,Approved
+2031,no,1900000,540, Graduate,Rejected
+3012,no,1300000,690, Not Graduate,Approved
+2556,no,1800000,502, Graduate,Rejected
+1494,no,4100000,671, Graduate,Approved
+328,no,7800000,465, Not Graduate,Rejected
+1441,no,6200000,345, Graduate,Rejected
+2637,no,1000000,302, Not Graduate,Rejected
+593,no,800000,493, Graduate,Rejected
+4070,no,9300000,331, Not Graduate,Approved
+3220,no,6300000,430, Graduate,Rejected
+1257,no,9700000,701, Not Graduate,Approved
+1184,no,7100000,530, Graduate,Rejected
+2150,no,800000,338, Graduate,Approved
+1943,no,8700000,715, Graduate,Approved
+3657,no,4400000,884, Not Graduate,Approved
+2610,no,5800000,811, Graduate,Approved
+3537,no,6600000,758, Not Graduate,Approved
+3300,no,5200000,658, Not Graduate,Approved
+2742,no,5300000,368, Graduate,Rejected
+1963,no,7200000,338, Not Graduate,Rejected
+79,no,8500000,576, Not Graduate,Approved
+2499,no,2600000,854, Not Graduate,Approved
+2657,no,3300000,554, Not Graduate,Approved
+1907,no,7800000,717, Not Graduate,Approved
+1930,no,6600000,348, Graduate,Rejected
+1204,no,4100000,855, Graduate,Approved
+3698,no,3700000,484, Not Graduate,Rejected
+1938,no,1700000,558, Graduate,Approved
+3188,no,8100000,672, Graduate,Approved
+3893,no,9100000,787, Graduate,Approved
+3199,no,5200000,768, Not Graduate,Approved
+984,no,4800000,695, Graduate,Approved
+2963,no,900000,346, Graduate,Rejected
+574,no,3100000,543, Graduate,Approved
+1496,no,2200000,532, Not Graduate,Rejected
+4105,no,7000000,663, Not Graduate,Approved
+731,no,5800000,313, Graduate,Rejected
+2437,no,900000,602, Not Graduate,Approved
